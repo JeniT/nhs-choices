@@ -2,22 +2,23 @@ require 'csv'
 require 'json'
 
 organisationTypes = [
-	'CCG',
-	'Clinics',
-	'Dentists',
-	'GP',
-	'GPPractices',
-	'GSD',
-	'HealthAuthority',
-	'Hospital',
-	'LAT',
-	'MIU',
-	'Optician',
-	'Pharmacy',
-	'SCL',
-	'SCP',
-	'Trust',
-	'WIC'
+	# 'CCG',
+	# 'Clinics',
+	# 'Dentists',
+	# 'GP',
+	# 'GPPractices',
+	# 'GSD',
+	# 'HealthAuthority',
+	# 'Hospital',
+	# 'LAT',
+	# 'MIU',
+	# 'Optician',
+	# 'Pharmacy',
+	# 'SCL',
+	# 'SCP',
+	# 'Trust',
+	# 'WIC'
+	'GSD'
 ]
 
 organisationTypes.each do |organisationType|
