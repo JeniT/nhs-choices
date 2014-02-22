@@ -1,0 +1,703 @@
+OrganisationID¬OrganisationCode¬OrganisationType¬SubType¬OrganisationStatus¬IsPimsManaged¬OrganisationName¬Address1¬Address2¬Address3¬City¬County¬Postcode¬Latitude¬Longitude
+17936¬NAA¬Trust¬Independent¬Visible¬False¬Sk Health Ltd¬Suite 5-6, The Printworks¬Hey Road¬Ribble Valley Enterprise Park¬Clitheroe¬Lancashire¬BB7 9WB¬53.838493347167969¬-2.3980956077575684
+17948¬NAM¬Trust¬Independent¬Visible¬True¬Probus Surgery Limited¬Probus Surgical Centre¬Tregony Road¬Probud¬Truro¬Cornwall¬TR2 4JZ¬50.290008544921875¬-4.9494762420654297
+17950¬NCC¬Trust¬Independent¬Visible¬False¬Primary Provider Company Limited¬1 Carter Knowle Road¬¬¬Sheffield¬South Yorkshire¬S7 2DW¬53.352695465087891¬-1.4891586303710937
+17952¬NCL¬Trust¬Independent¬Visible¬True¬Express Diagnostics¬6 Research Way¬Tamar Science Park¬Derriford¬Plymouth¬Devon¬PL6 8BU¬50.416194915771484¬-4.1112546920776367
+17954¬NCR¬Trust¬Independent¬Visible¬True¬Isight¬Drayton House¬2 Lulworth Road¬¬Southport¬¬PR8 2AT¬53.638885498046875¬-3.0178482532501221
+17961¬NCW¬Trust¬Independent¬Visible¬False¬Sutton Medical Consulting Centre¬Ashfurlong Health Centre¬233 Tamworth Road¬¬Sutton Coldfield¬West Midlands¬B75 6DX¬52.57696533203125¬-1.8081067800521851
+17963¬NDA¬Trust¬Independent¬Visible¬True¬Virgin Care Services Ltd¬Lynton House¬7-12 Tavistock Square¬¬London¬¬WC1H 9LT¬51.524684906005859¬-0.12893277406692505
+18018¬NDJ¬Trust¬Independent¬Visible¬True¬First Community Health and Care Cic¬2nd Floor, Forum House¬41-51 Brighton Road¬¬Redhill¬Surrey¬RH1 6YS¬51.234882354736328¬-0.17079567909240723
+18036¬NJJ¬Trust¬Independent¬Visible¬False¬Psicon Limited¬70 New Dover Road¬¬¬Canterbury¬Kent¬CT1 3EQ¬51.268539428710938¬1.0935944318771362
+18038¬NL4¬Trust¬Independent¬Visible¬True¬Huddersfield Medical Services Ltd¬Oaklands Health Centre¬Huddersfield Road¬Holmfirth¬Huddersfield¬West Yorkshire¬HD9 3TP¬53.576507568359375¬-1.7854938507080078
+18041¬NL8¬Trust¬Independent¬Visible¬True¬Locala Community Partnerships¬Beckside Court¬286 Bradford Road¬¬Batley¬West Yorkshire¬WF17 5PW¬53.710044860839844¬-1.6272543668746948
+18081¬NLL¬Trust¬Independent¬Visible¬True¬Peninsula Community Health C.I.C¬Sedgemoor Centre¬Priory Road¬¬St. Austell¬Cornwall¬PL25 5AS¬50.339698791503906¬-4.795133113861084
+18100¬NLT¬Trust¬Independent¬Visible¬True¬North Somerset Community Partnership Community Interest Company¬Castlewood¬Tickenham Road¬¬Clevedon¬Avon¬BS21 9AX¬51.439350128173828¬-2.8588521480560303
+18120¬NLW¬Trust¬Independent¬Visible¬True¬Bristol Community Health¬South Plaza¬Marlborough Street¬¬Bristol¬Avon¬BS1 3NX¬51.459877014160156¬-2.5929524898529053
+18122¬NLY¬Trust¬Independent¬Visible¬True¬Care and Support Partnership¬SEQOL HQ (SEQOL is a trading name of Care and Support Partnership)¬- North Swindon District Centre¬Thamesdown Drive¬Swindon¬Wiltshire¬SN25 4AN¬51.596092224121094¬-1.807931661605835
+18131¬NMG¬Trust¬Independent¬Visible¬True¬Connect Physical Health¬Referral Management Centre¬35 Apex Business Village¬Annitsford¬Cramlington¬Northumberland¬NE23 7BF¬55.063362121582031¬-1.581913948059082
+18133¬NMJ¬Trust¬Independent¬Visible¬True¬Cygnet Health Care Limited¬Cygnet Hospital¬Godden Green¬¬Sevenoaks¬Kent¬TN15 0JR¬51.271110534667969¬0.22919522225856781
+18134¬NMM¬Trust¬Independent¬Visible¬False¬Hospital Of St John and St Elizabeth¬60 Grove End Road¬¬¬London¬Greater London¬NW8 9NH¬51.532623291015625¬-0.17618714272975922
+18136¬NMN¬Trust¬Independent¬Visible¬False¬Peninsula Health Llp¬Candy Park¬Old Hall Road¬¬Wirral¬Merseyside¬CH62 3PE¬53.330043792724609¬-2.97294020652771
+18137¬NMP¬Trust¬Independent¬Visible¬False¬Bridgewater Hospital (Manchester) Ltd¬120 Princess Road¬¬¬Manchester¬Greater Manchester¬M15 5AT¬53.459598541259766¬-2.2469439506530762
+18139¬NMQ¬Trust¬Independent¬Visible¬False¬Making Space¬46 Allen Street¬¬¬Warrington¬Cheshire¬WA2 7JB¬53.391838073730469¬-2.598416805267334
+18140¬NMT¬Trust¬Independent¬Visible¬False¬The Charlotte Straker Hospital Project Trust¬Cookson Close¬¬¬Corbridge¬Northumberland¬NE45 5HB¬54.976909637451172¬-2.0202643871307373
+18141¬NMV¬Trust¬Independent¬Visible¬True¬Partnerships In Care Ltd¬Unit 2 Imperial Place¬Maxwell Road¬¬Borehamwood¬Hertfordshire¬WD6 1JN¬51.658107757568359¬-0.26802098751068115
+18161¬NMW¬Trust¬Independent¬Visible¬False¬Abbey Sefton Hospital (University Hospital Aintree)¬Fazakerley Hospital¬Lower Lane¬¬Liverpool¬Merseyside¬L9 7AL¬53.467876434326172¬-2.9354164600372314
+18163¬NN3¬Trust¬Independent¬Visible¬False¬First Trust Hospital¬D'Urton Lane¬Broughton¬¬Preston¬Lancashire¬PR3 5LD¬53.802875518798828¬-2.7135803699493408
+18164¬NN4¬Trust¬Independent¬Visible¬False¬Tyneside Surgical Services Ltd¬The North East NHS Surgery Centre¬Queen Elizabeth Hospital¬¬Gateshead¬Tyne and Wear¬NE9 6SX¬54.938449859619141¬-1.5816491842269897
+18169¬NNF¬Trust¬Independent¬Visible¬True¬City Health Care Partnership Cic¬City Health Care Partnership CIC¬2 earls Court¬Henry Boot way¬Hull¬¬HU4 7DY¬53.723487854003906¬-0.41316565871238708
+18171¬NNH¬Trust¬Independent¬Visible¬False¬Optegra UK¬11-13 Frederick Sanger Road¬Surrey Research Park¬¬Guildford¬Surrey¬GU2 7YD¬51.240077972412109¬-0.61469680070877075
+18172¬NNV¬Trust¬Independent¬Visible¬False¬Your Healthcare¬Hollyfield House¬22 Hollyfield Road¬¬Surbiton¬Surrey¬KT5 9AL¬51.386020660400391¬-0.29412198066711426
+18209¬NNW¬Trust¬Independent¬Visible¬False¬Navas¬3 Holywell Way¬Longthorpe¬¬Peterborough¬Cambridgeshire¬PE3 6SS¬52.569244384765625¬-0.28841522336006165
+18221¬NP4¬Trust¬Independent¬Visible¬False¬Healthcare Location¬6 Glinton Road¬Helpston¬¬Peterborough¬Cambridgeshire¬PE6 7DQ¬52.635597229003906¬-0.33902722597122192
+18223¬NPE¬Trust¬Independent¬Visible¬True¬The Retreat Hospital¬107 Heslington Road¬¬¬York¬North Yorkshire¬YO10 5BN¬53.950553894042969¬-1.0643759965896606
+18225¬NPF¬Trust¬Independent¬Visible¬False¬The Industrial Diagnostics Company [HQ]¬Atherstone House¬The Sidings, Merry Lees Ind Estate¬Merrylees Road¬Leicester¬Leicestershire¬LE9 9FE¬52.648826599121094¬-1.3096774816513062
+18227¬NPG¬Trust¬Independent¬Visible¬True¬Spamedica¬¬Citygate Central¬Blantyre Street¬Castlefield¬¬M15 4SQ¬53.472156524658203¬-2.2590689659118652
+18229¬NPH¬Trust¬Independent¬Visible¬True¬Milton Keynes Urgent Care Services Cic HQ¬Milton Keynes General Hospital¬Standing Way¬Eaglestone¬Milton Keynes¬Buckinghamshire¬MK6 5NG¬52.024669647216797¬-0.73925435543060303
+18231¬NPJ¬Trust¬Independent¬Visible¬True¬South Norfolk Healthcare Cic¬First Floor¬The Windmill Surgery¬London Road¬Wymondham¬Norfolk¬NR18 0AF¬52.567642211914063¬1.113431453704834
+18233¬NPK¬Trust¬Independent¬Visible¬False¬North Norfolk Healthcare Cic Ltd¬The Administration Block¬1st Floor, Kelling Hospital¬High Kelling¬Holt¬Norfolk¬NR25 6QA¬52.913814544677734¬1.1159050464630127
+18235¬NPL¬Trust¬Independent¬Visible¬False¬Esteve Teijin¬Field Fisher Waterhouse¬Emperor House¬35 Vine Street¬London¬Greater London¬EC3N 2PX¬51.511264801025391¬-7.7601335942745209E-2
+18237¬NPN¬Trust¬Independent¬Visible¬False¬Assura Liverpool Llp¬6400 Daresbury Park¬Daresbury¬¬Warrington¬Cheshire¬WA4 4GE¬53.331382751464844¬-2.6426177024841309
+18247¬NPQ¬Trust¬Independent¬Visible¬False¬Urgent Care 24¬Unit 3&4¬Tapton Way¬Wavertree Business Village¬Liverpool¬Merseyside¬L13 1DA¬53.405933380126953¬-2.9250314235687256
+18250¬NPR¬Trust¬Independent¬Visible¬False¬About Health¬Telemedic House¬10 Billetfield¬¬Taunton¬Somerset¬TA1 3NN¬51.012897491455078¬-3.1004137992858887
+18263¬NPV¬Trust¬Independent¬Visible¬False¬Hillingdon Health Limited¬Unit 3, Trinity Court¬Brunel Road¬Totton¬Southampton¬Hampshire¬SO40 3WX¬50.932476043701172¬-1.4990329742431641
+18266¬NPW¬Trust¬Independent¬Visible¬False¬Gryphon Health Llp¬Unit 3, Trinity Court¬Brunel Road¬Totton¬Southampton¬Hampshire¬SO40 3WX¬50.932476043701172¬-1.4990329742431641
+18269¬NQ1¬Trust¬Independent¬Visible¬True¬Anglian Community Enterprise Community Interest Company (ACE CIC)¬Kennedy House¬Kennedy Way¬¬Clacton-on-Sea¬Essex¬CO15 4AB¬51.803562164306641¬1.1663804054260254
+18273¬NQ2¬Trust¬Independent¬Visible¬False¬Sudbury Healthcare Partnership Limited¬Hardwicke House Group Practice¬Meadow Lane¬¬Sudbury¬Suffolk¬CO10 2TD¬52.035762786865234¬0.7292594313621521
+18275¬NQ3¬Trust¬Independent¬Visible¬False¬North East Orthopaedic and Sports Injury Surgery Ltd¬1 Bemersyde Drive¬Jesmond¬¬Newcastle Upon Tyne¬Tyne and Wear¬NE2 2HL¬54.996936798095703¬-1.6044881343841553
+18278¬NQ4¬Trust¬Independent¬Visible¬False¬St George Healthcare Group¬St. Marys Hospital¬Floyd Drive¬¬Warrington¬Cheshire¬WA2 8DB¬53.406257629394531¬-2.5910983085632324
+18280¬NQ5¬Trust¬Independent¬Visible¬False¬Brook Young People¬50 Featherstone Street¬¬¬London¬Greater London¬EC1Y 8RT¬51.524055480957031¬-9.0036593377590179E-2
+18284¬NQ6¬Trust¬Independent¬Visible¬True¬Exeter Medical Ltd¬Silverdown Office Park¬Fair Oak Close, Clyst Honiton¬¬Exeter¬Devon¬EX5 2UX¬50.728977203369141¬-3.4111337661743164
+18286¬NQ7¬Trust¬Independent¬Visible¬True¬Medway Community Healthcare¬Unit 5, Ambley Green¬Gillingham Business Park¬¬Gillingham¬Kent¬ME8 0NJ¬51.363861083984375¬0.57417529821395874
+18288¬NQ9¬Trust¬Independent¬Visible¬False¬Brookdale Healthcare Ltd (T/A Brookdale Care)¬14 Parkway¬¬¬Welwyn Garden City¬Hertfordshire¬AL8 6HG¬51.802890777587891¬-0.20881259441375732
+18290¬NQA¬Trust¬Independent¬Visible¬True¬Central Essex Community Services¬Corporate Offices¬St. Peter's Hospital¬Spital Road¬Maldon¬Essex¬CM9 6EG¬51.729515075683594¬0.67166149616241455
+18292¬NQC¬Trust¬Independent¬Visible¬False¬Central London Osteopathy¬325-327 Old Street¬¬¬London¬Greater London¬EC1V 9LE¬51.526611328125¬-8.1279866397380829E-2
+18296¬NQH¬Trust¬Independent¬Visible¬False¬Novus Health Ltd¬Kings Medical Centre¬King Edward Street¬¬Normanton¬West Yorkshire¬WF6 2AZ¬53.700233459472656¬-1.4198306798934937
+18304¬NQM¬Trust¬Independent¬Visible¬True¬Orthopaedics and Spine Specialist Hospital¬1 Stirling Way¬Bretton¬¬Peterborough¬Cambridgeshire¬PE3 8YA¬52.604248046875¬-0.28409746289253235
+18307¬NR3¬Trust¬Independent¬Visible¬True¬Nottingham CityCare Partnership¬Standard Court¬Park Row¬¬Nottingham¬Nottinghamshire¬NG1 6GN¬52.951683044433594¬-1.1560254096984863
+18308¬NR5¬Trust¬Independent¬Visible¬True¬Plymouth Community Healthcare (Cic)¬Local Care Centre¬200 Mount Gould Road¬¬Plymouth¬Devon¬PL4 7PY¬50.3782958984375¬-4.1180105209350586
+18319¬NRK¬Trust¬Independent¬Visible¬False¬Eastbourne Healthcare Partnership¬The Apollo Health Centre¬Wartling Road¬¬Eastbourne¬East Sussex¬BN22 7PF¬50.780441284179688¬0.30224189162254333
+18321¬NT1¬Trust¬Independent¬Visible¬True¬Bpas (Head Office)¬bpas Head Office¬20 Timothys Bridge Road¬Stratford Enterprise Park¬Stratford on Avon¬Warwickshire¬CV37 9BF¬52.200115203857422¬-1.7248692512512207
+18350¬NT2¬Trust¬Independent¬Visible¬True¬Nuffield Health¬40-44 Coombe Road¬¬¬New Malden¬Surrey¬KT3 4QF¬51.405284881591797¬-0.25889843702316284
+18384¬NT3¬Trust¬Independent¬Visible¬True¬Spire Healthcare¬Spire Healthcare¬120 Holborn¬¬London¬¬EC1P 1JH¬51.524429321289063¬-0.11308601498603821
+18422¬NT4¬Trust¬Independent¬Visible¬True¬BMI Healthcare¬BMI Healthcare House¬3 Paris Garden¬¬London¬¬SE1 8ND¬51.506340026855469¬-0.10662846267223358
+18511¬NT5¬Trust¬Independent¬Visible¬False¬Care UK Clinical Services¬57-75 Kings Road¬¬¬Reading¬Berkshire¬RG1 3DD¬51.455001831054688¬-0.96370142698287964
+18520¬NT7¬Trust¬Independent¬Visible¬True¬Netcare Healthcare UK¬3 Tenterden Street¬Hanover Square¬¬London¬Greater London¬W1S 1TD¬51.514152526855469¬-0.14521795511245728
+18543¬NT8¬Trust¬Independent¬Visible¬False¬Capio UK¬1 Hassett Street¬¬¬Bedford¬Bedfordshire¬MK40 1HA¬52.138404846191406¬-0.47302499413490295
+18544¬NT9¬Trust¬Independent¬Visible¬True¬Alliance Medical¬Iceni Centre¬Warwick Technology Park¬Gallows Hill¬Warwick¬Warwickshire¬CV34 6DA¬52.273365020751953¬-1.5676014423370361
+18555¬NTC¬Trust¬Independent¬Visible¬True¬UK Specialist Hospitals Ltd¬¬4 Lombard Street¬¬London¬¬EC3V 9AA¬51.512351989746094¬-0.08908507227897644
+18561¬NTD¬Trust¬Independent¬Visible¬True¬Interhealth Care Services (Uk) Ltd¬¬Earls Way¬¬Runcorn¬Cheshire¬WA7 2HH¬53.321193695068359¬-2.6965088844299316
+18563¬NTE¬Trust¬Independent¬Visible¬True¬Claremont & St Hugh's Hospitals (Hmt)¬Claremont Private Hospital¬401 Sandygate Road¬¬Sheffield¬South Yorkshire¬S10 5UB¬53.375354766845703¬-1.5354844331741333
+18567¬NTF¬Trust¬Independent¬Visible¬False¬Abbey Hospitals¬22 Wimpole Street¬¬¬London¬Greater London¬W1G 8LD¬51.517814636230469¬-0.14939318597316742
+18569¬NTG¬Trust¬Independent¬Visible¬True¬Marie Stopes International¬1 Conway Street¬¬¬London¬Greater London¬W1T 6LP¬51.521270751953125¬-0.14060427248477936
+18590¬NTH¬Trust¬Independent¬Visible¬False¬Classic Hospitals Ltd¬Mitre House¬160 Aldersgate Street¬¬London¬Greater London¬EC1A 4DD¬51.518806457519531¬-9.8904632031917572E-2
+18601¬NTJ¬Trust¬Independent¬Visible¬False¬Atos Healthcare¬4 Triton Square¬Regent's Place¬¬London¬Greater London¬NW1 3HG¬51.524890899658203¬-0.14189846813678741
+18604¬NTK¬Trust¬Independent¬Visible¬False¬The Birkdale Clinic¬Prem House¬2 Park Road¬Waterloo¬Liverpool¬Merseyside¬L22 3XF¬53.477958679199219¬-3.0215256214141846
+18609¬NTM¬Trust¬Independent¬Visible¬False¬Fresenius Medical Care (Uk) Ltd¬Nunn Brook Road¬Huthwaite¬¬Sutton-In-Ashfield¬Nottinghamshire¬NG17 2HU¬53.122573852539063¬-1.3095855712890625
+18617¬NTN¬Trust¬Independent¬Visible¬True¬Priory Group Limited¬Registered Office¬80 Hammersmith Road¬¬London¬¬W14 8UD¬51.494533538818359¬-0.21372289955615997
+18654¬NTP¬Trust¬Independent¬Visible¬True¬Care UK¬Hawker House¬5-6 Napier Court¬Napier Road¬Reading¬Berkshire¬RG1 8BW¬51.458621978759766¬-0.96649813652038574
+18695¬NTQ¬Trust¬Independent¬Visible¬True¬Baxter Healthcare¬Wallingford Road¬Compton¬¬Newbury¬Berkshire¬RG20 7QW¬51.518329620361328¬-1.2505117654800415
+18706¬NTR¬Trust¬Independent¬Visible¬False¬Tyne and Wear Surgery Ltd¬22-26 Kings Street¬¬¬Kings Lynn¬Norfolk¬PE30 1HJ¬52.754348754882813¬0.39309605956077576
+18708¬NTT¬Trust¬Independent¬Visible¬False¬Cambian Healthcare Limited¬4th Floor, Waterfront Building¬Hammersmith Embankment¬Chancellors Road¬London¬Greater London¬W6 9RU¬51.4857177734375¬-0.22558987140655518
+18717¬NTV¬Trust¬Independent¬Visible¬True¬Central Surrey Health¬Ewell Court Clinic¬Ewell Court Avenue¬¬Epsom¬Surrey¬KT19 0DZ¬51.362148284912109¬-0.2605348527431488
+18747¬NTY¬Trust¬Independent¬Visible¬True¬Other Private Healthcare Providers¬2nd Floor¬Princes Exchange¬2 Princes Square¬Leeds¬West Yorkshire¬LS1 4HY¬53.795169830322266¬-1.5505961179733276
+18775¬NV1¬Trust¬Independent¬Visible¬True¬Inhealth Group Limited¬Beechwood Hall¬Kingsmead Road¬¬High Wycombe¬Buckinghamshire¬HP11 1JL¬51.607986450195313¬-0.70461708307266235
+18788¬NV2¬Trust¬Independent¬Visible¬True¬The Huntercombe Group¬Central Services - Tulip House¬Craven Court¬Willie Snaith Road¬Newmarket¬Suffolk¬CB8 7FA¬52.257999420166016¬0.39265510439872742
+18800¬NV3¬Trust¬Independent¬Visible¬True¬Circle¬32 Welbeck Street¬¬¬London¬¬W1G 8EU¬51.517837524414063¬-0.1508336067199707
+18811¬NV7¬Trust¬Independent¬Visible¬False¬Bupa Group¬Bupa House¬15-19 Bloomsbury Way¬¬London¬Greater London¬WC1A 2BA¬51.517402648925781¬-0.12346583604812622
+18822¬NV8¬Trust¬Independent¬Visible¬True¬Horizon Health¬Enhanced Service Centre¬Bedford Health Village¬3 Kimbolton Road¬Bedford¬Bedfordshire¬MK40 2NT¬52.14093017578125¬-0.45978665351867676
+18825¬NVC¬Trust¬Independent¬Visible¬True¬Ramsay Healthcare UK Operations Limited¬¬1 Hassett Street¬¬Bedford¬Bedfordshire¬MK40 1HA¬52.138404846191406¬-0.47302499413490295
+18865¬NVG¬Trust¬Independent¬Visible¬False¬Fairfield Hospital¬Crank Road¬Crank¬¬St. Helens¬Merseyside¬WA11 7RS¬53.484462738037109¬-2.7504193782806396
+18867¬NVL¬Trust¬Independent¬Visible¬False¬Durnford Dermatology¬113 Long Street¬Middleton¬¬Manchester¬Greater Manchester¬M24 6DL¬53.553169250488281¬-2.1976785659790039
+18869¬NVT¬Trust¬Independent¬Visible¬True¬London Wound Healing Centres Ltd¬London Wound Healing Centre¬Whipps Cross Hospital¬Leytonstone¬London¬¬E11 1NR¬51.578281402587891¬1.7193092498928308E-3
+18873¬NW6¬Trust¬Independent¬Visible¬False¬Hca International¬242 Marylebone Road¬¬¬London¬Greater London¬NW1 6JL¬51.520759582519531¬-0.16512961685657501
+18881¬NWE¬Trust¬Independent¬Visible¬False¬Sentinel Healthcare Southwest Community Interest Company¬Derriford Business Park¬Brest Road¬¬Plymouth¬Devon¬PL6 5QZ¬50.415065765380859¬-4.123873233795166
+18886¬NWF¬Trust¬Independent¬Visible¬True¬Benenden Hospital¬Goddards Green Road¬Benenden¬¬Cranbrook¬Kent¬TN17 4AX¬51.085926055908203¬0.61583048105239868
+18888¬NWH¬Trust¬Independent¬Visible¬True¬Assura Leeds Llp¬Unit 2R, The Cadcam Centre¬High Force Road¬Riverside Park¬Middlesbrough¬¬TS2 1RH¬54.585491180419922¬-1.2525935173034668
+18889¬NWX¬Trust¬Independent¬Visible¬False¬Brighton & Hove Integrated Care Service¬4Th Floor¬177 Preston Road¬¬Brighton¬East Sussex¬BN1 6AG¬50.837947845458984¬-0.14943256974220276
+18891¬NX1¬Trust¬Independent¬Visible¬True¬The Practice Plc¬Anglo House¬Bell Lane Office Village¬Bell Lane, Little Chalfont¬Amersham¬Buckinghamshire¬HP6 6FA¬51.670333862304688¬-0.57558226585388184
+18895¬NX2¬Trust¬Independent¬Visible¬True¬Minor Ops Ltd¬The Quadrus Centre¬Woodstock Way¬Boldon Business Park¬Boldon Colliery¬Durham¬NE35 9PF¬54.942520141601562¬-1.4723362922668457
+18908¬NXM¬Trust¬Independent¬Visible¬True¬The Horder Centre¬Orthopaedic Centre of Excellence¬St. John's Road¬¬Crowborough¬Sussex¬TN6 1XP¬51.063194274902344¬0.14212052524089813
+18911¬NY6¬Trust¬Independent¬Visible¬True¬Pain Management Solutions¬Head Office¬Oaks Park Primary Care Centre¬Thornton Road¬Barnsley¬¬S70 3NE¬53.542217254638672¬-1.4582093954086304
+18934¬NYA¬Trust¬Independent¬Visible¬False¬St Andrew's Healthcare¬St. Andrews Hospital¬Billing Road¬¬Northampton¬Northamptonshire¬NN1 5DG¬52.237331390380859¬-0.87528908252716064
+18938¬NYG¬Trust¬Independent¬Visible¬True¬Sussex Community Dermatology Service¬13 New Church Road¬¬¬Hove¬East Sussex¬BN3 4AA¬50.828529357910156¬-0.17962493002414703
+39919¬R1A¬Trust¬Health and Care¬Visible¬True¬Worcestershire Health and Care NHS Trust¬Isaac Maddox House¬Shrub Hill Industrial Estate¬¬Worcester¬Worcestershire¬WR4 9RW¬52.194847106933594¬-2.2135341167449951
+39927¬R1C¬Trust¬Health and Care¬Visible¬True¬Solent NHS Trust¬Adelaide Health Centre¬Western Community Hospital¬William Macleod Way¬Southampton¬Hampshire¬SO16 4XE¬50.925045013427734¬-1.4464693069458008
+39928¬R1D¬Trust¬Health and Care¬Visible¬True¬Shropshire Community Health NHS Trust¬William Farr House¬Mytton Oak Road¬¬Shrewsbury¬Shropshire¬SY3 8XL¬52.706615447998047¬-2.793243408203125
+39934¬R1E¬Trust¬Health and Care¬Visible¬True¬Staffordshire and Stoke On Trent Partnership NHS Trust¬2nd Floor, Morston House¬¬¬Newcastle-under-Lyme¬Staffordshire¬ST5 1QG¬53.009296417236328¬-2.2279694080352783
+39935¬R1F¬Trust¬Acute¬Visible¬True¬Isle Of Wight NHS Trust¬St Mary's Hospital¬Parkhurst Road¬¬Newport¬Isle Of Wight¬PO30 5TG¬50.710243225097656¬-1.3017072677612305
+39936¬R1G¬Trust¬Health and Care¬Visible¬True¬Torbay and Southern Devon Health and Care NHS Trust¬Bay House, Unit 2¬Riviera Park¬Nicholson Road¬Torquay¬Devon¬TQ2 7TD¬50.487041473388672¬-3.5533392429351807
+39948¬R1H¬Trust¬Acute¬Visible¬True¬Barts Health NHS Trust¬Trust headquarters, Executive Offices¬Ground Floor, Pathology and Pharmacy Building¬The Royal London Hospital, 80 Newark Street¬London¬¬E1 2ES¬51.516323089599609¬-5.7209908962249756E-2
+39969¬RA2¬Trust¬Acute¬Visible¬True¬Royal Surrey County NHS Foundation Trust¬Royal Surrey County Hospital¬Egerton Road¬¬Guildford¬Surrey¬GU2 7XX¬51.240890502929688¬-0.60750937461853027
+39976¬RA3¬Trust¬Acute¬Visible¬True¬Weston Area Health NHS Trust¬Weston General Hospital¬Grange Road¬Uphill¬Weston-Super-Mare¬¬BS23 4TQ¬51.321575164794922¬-2.9714548587799072
+39984¬RA4¬Trust¬Acute¬Visible¬True¬Yeovil District Hospital NHS Foundation Trust¬Yeovil District Hospital¬Higher Kingston¬¬Yeovil¬Somerset¬BA21 4AT¬50.944416046142578¬-2.6347637176513672
+39986¬RA7¬Trust¬Acute¬Visible¬True¬University Hospitals Bristol NHS Foundation Trust¬Marlborough Street¬¬¬Bristol¬Avon¬BS1 3NU¬51.458980560302734¬-2.5929410457611084
+40005¬RA9¬Trust¬Acute¬Visible¬True¬South Devon Healthcare NHS Foundation Trust¬Hengrave House¬Torbay Hospital¬Newton Road¬Torquay¬Devon¬TQ2 7AA¬50.48162841796875¬-3.5545711517333984
+40057¬RAE¬Trust¬Acute¬Visible¬True¬Bradford Teaching Hospitals NHS Foundation Trust¬Bradford Royal Infirmary¬Duckworth Lane¬¬Bradford¬West Yorkshire¬BD9 6RJ¬53.80572509765625¬-1.7949563264846802
+40066¬RAJ¬Trust¬Acute¬Visible¬True¬Southend University Hospital NHS Foundation Trust¬¬Prittlewell Chase¬¬Westcliff On Sea¬Essex¬SS0 0RY¬51.553752899169922¬0.68875670433044434
+40072¬RAL¬Trust¬Acute¬Visible¬True¬Royal Free London NHS Foundation Trust¬Royal Free Hospital¬Pond Street¬¬London¬¬NW3 2QG¬51.553157806396484¬-0.16671116650104523
+40086¬RAN¬Trust¬Acute¬Visible¬True¬Royal National Orthopaedic Hospital NHS Trust¬¬Brockley Hill¬¬Stanmore¬Middlesex¬HA7 4LP¬51.630813598632812¬-0.30807304382324219
+40089¬RAP¬Trust¬Acute¬Visible¬True¬North Middlesex University Hospital NHS Trust¬¬Sterling Way¬¬London¬¬N18 1QX¬51.612831115722656¬-7.4757292866706848E-2
+40094¬RAS¬Trust¬Acute¬Visible¬True¬The Hillingdon Hospitals NHS Foundation Trust¬¬Pield Heath Road¬¬Uxbridge¬Middlesex¬UB8 3NN¬51.5250244140625¬-0.46191653609275818
+40097¬RAT¬Trust¬MentalHealth¬Visible¬True¬North East London NHS Foundation Trust¬Trust Head Office¬Goodmayes Hospital Site¬Barley Lane¬Ilford¬Essex¬IG3 8XJ¬51.577281951904297¬0.10992063581943512
+40108¬RAX¬Trust¬Acute¬Visible¬True¬Kingston Hospital NHS Foundation Trust¬Galsworthy Road¬¬¬Kingston Upon Thames¬Surrey¬KT2 7QB¬51.41375732421875¬-0.28446152806282043
+40114¬RBA¬Trust¬Acute¬Visible¬True¬Taunton and Somerset NHS Foundation Trust¬Musgrove Park Hospital¬¬¬Taunton¬Somerset¬TA1 5DA¬51.011806488037109¬-3.1203451156616211
+40120¬RBB¬Trust¬Acute¬Visible¬True¬Royal National Hospital For Rheumatic Diseases NHS Foundation Trust¬Upper Borough Walls¬¬¬Bath¬Avon¬BA1 1RL¬51.381690979003906¬-2.3620357513427734
+40129¬RBD¬Trust¬Acute¬Visible¬True¬Dorset County Hospital NHS Foundation Trust¬Dorset County Hospital¬Williams Avenue¬¬Dorchester¬Dorset¬DT1 2JY¬50.713275909423828¬-2.4475064277648926
+40153¬RBK¬Trust¬Acute¬Visible¬True¬Walsall Healthcare NHS Trust¬Manor Hospital¬Moat Road¬¬Walsall¬¬WS2 9PS¬52.581615447998047¬-1.9999421834945679
+40160¬RBL¬Trust¬Acute¬Visible¬True¬Wirral University Teaching Hospital NHS Foundation Trust¬Arrowe Park Hospital¬Arrowe Park Road¬Upton¬Wirral¬Merseyside¬CH49 5PE¬53.370330810546875¬-3.0956013202667236
+40167¬RBN¬Trust¬Acute¬Visible¬True¬St Helens and Knowsley Hospitals NHS Trust¬Whiston Hospital¬Warrington Road¬¬Prescot¬Merseyside¬L35 5DR¬53.420406341552734¬-2.7869091033935547
+40183¬RBQ¬Trust¬Acute¬Visible¬True¬Liverpool Heart and Chest NHS Foundation Trust¬Thomas Drive¬¬¬Liverpool¬Merseyside¬L14 3PE¬53.409713745117188¬-2.9010434150695801
+40189¬RBS¬Trust¬Acute¬Visible¬True¬Alder Hey Children's NHS Foundation Trust¬Alder Hey Hospital¬Eaton Road¬West Derby¬Liverpool¬Merseyside¬L12 2AP¬53.420520782470703¬-2.8982625007629395
+40198¬RBT¬Trust¬Acute¬Visible¬True¬Mid Cheshire Hospitals NHS Foundation Trust¬Leighton Hospital¬Leighton¬¬Crewe¬Cheshire¬CW1 4QJ¬53.117328643798828¬-2.4765617847442627
+40203¬RBV¬Trust¬Acute¬Visible¬True¬The Christie NHS Foundation Trust¬550 Wilmslow Road¬Withington¬¬Manchester¬Greater Manchester¬M20 4BX¬53.429069519042969¬-2.2302117347717285
+40207¬RBZ¬Trust¬Acute¬Visible¬True¬Northern Devon Healthcare NHS Trust¬North Devon District Hospital¬Raleigh Park¬¬Barnstaple¬Devon¬EX31 4JB¬51.091789245605469¬-4.0519146919250488
+40226¬RC1¬Trust¬Acute¬Visible¬True¬Bedford Hospital NHS Trust¬South Wing¬Kempston Road¬¬Bedford¬Bedfordshire¬MK42 9DJ¬52.128501892089844¬-0.47190269827842712
+40230¬RC3¬Trust¬Acute¬Visible¬True¬Ealing Hospital NHS Trust¬Uxbridge Road¬¬¬Southall¬Middlesex¬UB1 3HW¬51.506381988525391¬-0.34726902842521667
+40232¬RC9¬Trust¬Acute¬Visible¬True¬Luton and Dunstable University Hospital NHS Foundation Trust¬¬Lewsey Road¬¬Luton¬Bedfordshire¬LU4 0DZ¬51.893871307373047¬-0.47551468014717102
+40234¬RCB¬Trust¬Acute¬Visible¬True¬York Teaching Hospital NHS Foundation Trust¬The York Hospital¬Wigginton Road¬¬York¬North Yorkshire¬YO31 8HE¬53.970478057861328¬-1.083748459815979
+40260¬RCD¬Trust¬Acute¬Visible¬True¬Harrogate and District NHS Foundation Trust¬Strayside Wing¬Harrogate District Hospital¬Lancaster Park Road¬Harrogate¬North Yorkshire¬HG2 7SX¬53.993675231933594¬-1.5179564952850342
+40269¬RCF¬Trust¬Acute¬Visible¬True¬Airedale NHS Foundation Trust¬Airedale General Hospital¬Skipton Road¬Steeton¬Keighley¬West Yorkshire¬BD20 6TD¬53.897567749023438¬-1.9634257555007935
+40277¬RCU¬Trust¬Acute¬Visible¬True¬Sheffield Children's NHS Foundation Trust¬Western Bank¬¬¬Sheffield¬South Yorkshire¬S10 2TH¬53.379673004150391¬-1.49184250831604
+40283¬RCX¬Trust¬Acute¬Visible¬True¬The Queen Elizabeth Hospital, King's Lynn. NHS Foundation Trust¬Queen Elizabeth Hospital¬Gayton Road¬¬Kings Lynn¬Norfolk¬PE30 4ET¬52.755954742431641¬0.44653797149658203
+40291¬RD1¬Trust¬Acute¬Visible¬True¬Royal United Hospital Bath NHS Trust¬Royal United Hospital Bath NHS Trust¬Combe Park¬¬Bath¬¬BA1 3NG¬51.391487121582031¬-2.3922944068908691
+40307¬RD3¬Trust¬Acute¬Visible¬True¬Poole Hospital NHS Foundation Trust¬Longfleet Road¬¬¬Poole¬Dorset¬BH15 2JB¬50.721324920654297¬-1.9744349718093872
+40313¬RD7¬Trust¬Acute¬Visible¬True¬Heatherwood and Wexham Park Hospitals NHS Foundation Trust¬Wexham Park Hospital¬Wexham Street¬Wexham¬Slough¬Berkshire¬SL2 4HL¬51.532756805419922¬-0.57555490732192993
+40328¬RD8¬Trust¬Acute¬Visible¬True¬Milton Keynes Hospital NHS Foundation Trust¬Standing Way¬Eaglestone¬¬Milton Keynes¬Buckinghamshire¬MK6 5LD¬52.025535583496094¬-0.73631489276885986
+40333¬RDD¬Trust¬Acute¬Visible¬True¬Basildon and Thurrock University Hospitals NHS Foundation Trust¬Basildon Hospital¬¬Nethermayne¬Basildon¬Essex¬SS16 5NL¬51.557197570800781¬0.44946330785751343
+40340¬RDE¬Trust¬Acute¬Visible¬True¬Colchester Hospital University NHS Foundation Trust¬Colchester General Hospital¬Turner Road¬¬Colchester¬Essex¬CO4 5JL¬51.909393310546875¬0.89898735284805298
+40347¬RDR¬Trust¬Health and Care¬Visible¬True¬Sussex Community NHS Trust¬Brighton General Hospital¬Elm Grove¬¬Brighton¬¬BN2 3EW¬50.830188751220703¬-0.11423809081315994
+40394¬RDU¬Trust¬Acute¬Visible¬True¬Frimley Park Hospital NHS Foundation Trust¬Portsmouth Road¬¬Frimley¬Camberley¬Surrey¬GU16 7UJ¬51.318859100341797¬-0.74291187524795532
+40407¬RDY¬Trust¬Health and Care¬Visible¬True¬Dorset Healthcare University NHS Foundation Trust¬Sentinel House¬4 - 6 Nuffield Road¬Nuffield Industrial Estate¬Poole¬Dorset¬BH17 0RB¬50.739311218261719¬-1.9786766767501831
+40448¬RDZ¬Trust¬Acute¬Visible¬True¬The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust¬Royal Bournemouth General Hospital¬Castle Lane East¬¬Bournemouth¬Dorset¬BH7 7DW¬50.747268676757813¬-1.8213427066802979
+40452¬RE9¬Trust¬Acute¬Visible¬True¬South Tyneside NHS Foundation Trust¬South Tyneside District Hospital¬Harton Lane¬¬South Shields¬Tyne and Wear¬NE34 0PL¬54.971092224121094¬-1.4313467741012573
+40469¬REF¬Trust¬Acute¬Visible¬True¬Royal Cornwall Hospitals NHS Trust¬Royal Cornwall Hospital¬Treliske¬¬Truro¬Cornwall¬TR1 3LJ¬50.266494750976562¬-5.0925755500793457
+40479¬REM¬Trust¬Acute¬Visible¬True¬Aintree University Hospital NHS Foundation Trust¬¬Aintree University Hospital¬Lower Lane¬Liverpool¬Merseyside¬L9 7AL¬53.467876434326172¬-2.9354164600372314
+40500¬REN¬Trust¬Acute¬Visible¬True¬The Clatterbridge Cancer Centre NHS Foundation Trust¬Clatterbridge Road¬Bebington¬¬Wirral¬¬CH63 4JY¬53.331390380859375¬-3.027029275894165
+40503¬REP¬Trust¬Acute¬Visible¬True¬Liverpool Women's NHS Foundation Trust¬Liverpool Womens Hospital¬Crown Street¬¬Liverpool¬¬L8 7SS¬53.397560119628906¬-2.9609444141387939
+40559¬RET¬Trust¬Acute¬Visible¬True¬The Walton Centre NHS Foundation Trust¬Lower Lane¬¬¬Liverpool¬Merseyside¬L9 7LJ¬53.466102600097656¬-2.9323647022247314
+40561¬RF4¬Trust¬Acute¬Visible¬True¬Barking, Havering and Redbridge University Hospitals NHS Trust¬Queen's Hospital¬Rom Valley Way¬¬Romford¬Essex¬RM7 0AG¬51.56793212890625¬0.178751140832901
+40569¬RFF¬Trust¬Acute¬Visible¬True¬Barnsley Hospital NHS Foundation Trust¬¬Gawber Road¬¬Barnsley¬¬S75 2EP¬53.557682037353516¬-1.5002801418304443
+40571¬RFR¬Trust¬Acute¬Visible¬True¬The Rotherham NHS Foundation Trust¬Rotherham Hospital¬Moorgate Road¬¬Rotherham¬¬S60 2UD¬53.414009094238281¬-1.3439934253692627
+40576¬RFS¬Trust¬Acute¬Visible¬True¬Chesterfield Royal Hospital NHS Foundation Trust¬Top Road¬Calow¬¬Chesterfield¬Derbyshire¬S44 5BL¬53.235427856445313¬-1.400661826133728
+40614¬RFW¬Trust¬Acute¬Visible¬True¬West Middlesex University Hospital NHS Trust¬¬Twickenham Road¬¬Isleworth¬Middlesex¬TW7 6AF¬51.473720550537109¬-0.32685083150863647
+40643¬RGD¬Trust¬MentalHealth¬Visible¬True¬Leeds and York Partnership NHS Foundation Trust¬2150 Century Way¬Thorpe Park¬¬Leeds¬West Yorkshire¬LS15 8ZB¬53.796443939208984¬-1.4276131391525269
+40649¬RGM¬Trust¬Acute¬Visible¬True¬Papworth Hospital NHS Foundation Trust¬Papworth Hall¬Papworth Everard¬¬Cambridge¬Cambridgeshire¬CB23 3RE¬52.248336791992188¬-0.11621464788913727
+40651¬RGN¬Trust¬Acute¬Visible¬True¬Peterborough and Stamford Hospitals NHS Foundation Trust¬Peterborough City Hospital¬Bretton Gate¬Bretton¬Peterborough¬Cambridgeshire¬PE3 9GZ¬52.585311889648438¬-0.28040876984596252
+40659¬RGP¬Trust¬Acute¬Visible¬True¬James Paget University Hospitals NHS Foundation Trust¬Lowestoft Road¬¬Gorleston¬Great Yarmouth¬Norfolk¬NR31 6LA¬52.561019897460937¬1.7165670394897461
+40667¬RGQ¬Trust¬Acute¬Visible¬True¬Ipswich Hospital NHS Trust¬Heath Road¬¬¬Ipswich¬Suffolk¬IP4 5PD¬52.059989929199219¬1.196169376373291
+40713¬RGR¬Trust¬Acute¬Visible¬True¬West Suffolk NHS Foundation Trust¬West Suffolk Hospital¬Hardwick Lane¬¬Bury St Edmunds¬Suffolk¬IP33 2QZ¬52.231376647949219¬0.70902639627456665
+40718¬RGT¬Trust¬Acute¬Visible¬True¬Cambridge University Hospitals NHS Foundation Trust¬¬Hills Road¬¬Cambridge¬Cambridgeshire¬CB2 0QQ¬52.172969818115234¬0.13799519836902618
+40736¬RH5¬Trust¬MentalHealth¬Visible¬True¬Somerset Partnership NHS Foundation Trust¬2nd Floor¬Mallard Court¬Express Park, Bristol Road¬Bridgwater¬Somerset¬TA6 4RN¬51.1478271484375¬-2.9949653148651123
+40781¬RH8¬Trust¬Acute¬Visible¬True¬Royal Devon and Exeter NHS Foundation Trust¬Royal Devon and Exeter Hospital¬Barrack Road¬¬Exeter¬Devon¬EX2 5DW¬50.716083526611328¬-3.5070712566375732
+40803¬RHA¬Trust¬MentalHealth¬Visible¬True¬Nottinghamshire Healthcare NHS Trust¬The Resource, Trust HQ¬Duncan Macmillan House¬Porchester Road¬Nottingham¬Nottinghamshire¬NG3 6AA¬52.979343414306641¬-1.1271885633468628
+40842¬RHM¬Trust¬Acute¬Visible¬True¬University Hospital Southampton NHS Foundation Trust¬Southampton General Hospital¬Tremona Road¬¬Southampton¬Hampshire¬SO16 6YD¬50.932193756103516¬-1.4364234209060669
+40853¬RHQ¬Trust¬Acute¬Visible¬True¬Sheffield Teaching Hospitals NHS Foundation Trust¬Northern General Hospital¬Herries Road¬¬Sheffield¬South Yorkshire¬S5 7AU¬53.422657012939453¬-1.4552154541015625
+40866¬RHU¬Trust¬Acute¬Visible¬True¬Portsmouth Hospitals NHS Trust¬Trust Headquarters¬Queen Alexandra Hospital¬Southwick Hill Road¬Portsmouth¬Hampshire¬PO6 3LY¬50.848934173583984¬-1.0723596811294556
+40883¬RHW¬Trust¬Acute¬Visible¬True¬Royal Berkshire NHS Foundation Trust¬Royal Berkshire Hospital¬London Road¬¬Reading¬Berkshire¬RG1 5AN¬51.451366424560547¬-0.95946627855300903
+40915¬RHX¬Trust¬MentalHealth¬Visible¬True¬Oxfordshire Learning Disability NHS Trust¬Slade House¬Horspath Driftway¬Headington¬Oxford¬Oxfordshire¬OX3 7JH¬51.742774963378906¬-1.1990092992782593
+40916¬RJ1¬Trust¬Acute¬Visible¬True¬Guy's and St Thomas' NHS Foundation Trust¬Trust Offices¬Guy's Hospital¬Great Maze Pond¬London¬Greater London¬SE1 9RT¬51.504261016845703¬-8.9423447847366333E-2
+40921¬RJ2¬Trust¬Acute¬Visible¬True¬Lewisham and Greenwich NHS Trust¬University Hospital Lewisham¬Lewisham High Street¬¬London¬Greater London¬SE13 6LH¬51.453620910644531¬-1.8132317811250687E-2
+40923¬RJ6¬Trust¬Acute¬Visible¬True¬Croydon Health Services NHS Trust¬Croydon University Hospital¬530 London Road¬¬Croydon¬¬CR7 7YE¬51.388591766357422¬-0.11005575954914093
+40948¬RJ7¬Trust¬Acute¬Visible¬True¬St George's Healthcare NHS Trust¬St George's Hospital¬Blackshaw Road¬Tooting¬London¬Greater London¬SW17 0QT¬51.426509857177734¬-0.17609985172748566
+40964¬RJ8¬Trust¬MentalHealth¬Visible¬True¬Cornwall Partnership NHS Foundation Trust¬Head Office¬Fairview House¬Corporation Road¬Bodmin¬Cornwall¬PL31 1FB¬50.467926025390625¬-4.7364530563354492
+40974¬RJC¬Trust¬Acute¬Visible¬True¬South Warwickshire NHS Foundation Trust¬Warwick Hospital¬Lakin Road¬¬Warwick¬Warwickshire¬CV34 5BW¬52.289604187011719¬-1.5835704803466797
+40979¬RJD¬Trust¬Acute¬Visible¬True¬Mid Staffordshire NHS Foundation Trust¬Stafford Hospital¬Weston Road¬¬Stafford¬Staffordshire¬ST16 3SA¬52.810810089111328¬-2.0978584289550781
+40982¬RJE¬Trust¬Acute¬Visible¬True¬University Hospital Of North Staffordshire NHS Trust¬¬Hartshill¬¬Stoke on Trent¬Staffordshire¬ST4 6QG¬53.003925323486328¬-2.2160196304321289
+41014¬RJF¬Trust¬Acute¬Visible¬True¬Burton Hospitals NHS Foundation Trust¬Queen's Hospital¬Belvedere Road¬¬Burton-on-Trent¬Staffordshire¬DE13 0RB¬52.816642761230469¬-1.6557103395462036
+41018¬RJL¬Trust¬Acute¬Visible¬True¬Northern Lincolnshire and Goole Hospitals NHS Foundation Trust¬Diana Princess Of Wales Hospital¬Scartho Road¬¬Grimsby¬North East Lincolnshire¬DN33 2BA¬53.544483184814453¬-9.6879385411739349E-2
+41024¬RJN¬Trust¬Acute¬Visible¬True¬East Cheshire NHS Trust¬Macclesfield District General Hospital¬Victoria Road¬¬Macclesfield¬Cheshire¬SK10 3BL¬53.262016296386719¬-2.1423628330230713
+41033¬RJR¬Trust¬Acute¬Visible¬True¬Countess Of Chester Hospital NHS Foundation Trust¬The Countess Of Chester Health Park¬¬¬Chester¬Cheshire¬CH2 1UL¬53.211063385009766¬-2.8998637199401855
+41039¬RJX¬Trust¬MentalHealth¬Visible¬True¬Calderstones Partnership NHS Foundation Trust¬Mitton Road¬¬Whalley¬Clitheroe¬Lancashire¬BB7 9PE¬53.829418182373047¬-2.4238381385803223
+41041¬RJZ¬Trust¬Acute¬Visible¬True¬King's College Hospital NHS Foundation Trust¬King's College Hospital¬Denmark Hill¬¬London¬¬SE5 9RS¬51.468341827392578¬-9.2364251613616943E-2
+41045¬RK5¬Trust¬Acute¬Visible¬True¬Sherwood Forest Hospitals NHS Foundation Trust¬Mansfield Road¬¬¬Sutton-In-Ashfield¬Nottinghamshire¬NG17 4JL¬53.133827209472656¬-1.2391543388366699
+41059¬RK9¬Trust¬Acute¬Visible¬True¬Plymouth Hospitals NHS Trust¬Derriford Hospital¬Derriford Road¬¬Plymouth¬Devon¬PL6 8DH¬50.416145324707031¬-4.1140680313110352
+41069¬RKB¬Trust¬Acute¬Visible¬True¬University Hospitals Coventry and Warwickshire NHS Trust¬University Hospital¬Clifford Bridge Road¬¬Coventry¬¬CV2 2DX¬52.421184539794922¬-1.4441090822219849
+41076¬RKE¬Trust¬Acute¬Visible¬True¬The Whittington Hospital NHS Trust¬The Whittington Hospital¬Magdala Avenue¬¬London¬¬N19 5NF¬51.566204071044922¬-0.13877168297767639
+41079¬RKL¬Trust¬MentalHealth¬Visible¬True¬West London Mental Health NHS Trust¬Trust Headquarters¬St Bernard's Site¬Uxbridge Road¬Southall¬Middlesex¬UB1 3EU¬51.506443023681641¬-0.35158967971801758
+41087¬RL1¬Trust¬Acute¬Visible¬True¬Robert Jones and Agnes Hunt Orthopaedic and District Hospital NHS Trust¬The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust¬Twympath Lane¬¬Oswestry¬Shropshire¬SY10 7AG¬52.8836669921875¬-3.0327620506286621
+41090¬RL4¬Trust¬Acute¬Visible¬True¬The Royal Wolverhampton NHS Trust¬New Cross Hospital¬Wolverhampton Road¬Heath Town¬Wolverhampton¬¬WV10 0QP¬52.597755432128906¬-2.0973818302154541
+41100¬RLN¬Trust¬Acute¬Visible¬True¬City Hospitals Sunderland NHS Foundation Trust¬Sunderland Royal Hospital¬Kayll Road¬¬Sunderland¬¬SR4 7TP¬54.902702331542969¬-1.4120372533798218
+41121¬RLQ¬Trust¬Acute¬Visible¬True¬Wye Valley NHS Trust¬The County Hospital¬Union Walk¬¬Hereford¬Herefordshire¬HR1 2ER¬52.056270599365234¬-2.7058289051055908
+41133¬RLT¬Trust¬Acute¬Visible¬True¬George Eliot Hospital NHS Trust¬Lewes House¬College Street¬¬Nuneaton¬Warwickshire¬CV10 7DJ¬52.51123046875¬-1.4753905534744263
+41137¬RLU¬Trust¬Acute¬Visible¬True¬Birmingham Women's NHS Foundation Trust¬Birmingham Womens Hospital¬Mindelsohn Way¬Edgbaston¬Birmingham¬West Midlands¬B15 2TG¬52.453044891357422¬-1.9425526857376099
+41141¬RLY¬Trust¬MentalHealth¬Visible¬True¬North Staffordshire Combined Healthcare NHS Trust¬Trust Headquarters¬Bellringer Road¬Trentham Lakes¬Stoke-on-Trent¬Staffordshire¬ST4 8HH¬52.968044281005859¬-2.1681942939758301
+41146¬RM1¬Trust¬Acute¬Visible¬True¬Norfolk and Norwich University Hospitals NHS Foundation Trust¬Norfolk and Norwich University Hospital¬Colney Lane¬¬Norwich¬Norfolk¬NR4 7UY¬52.617839813232422¬1.2204282283782959
+41157¬RM2¬Trust¬Acute¬Visible¬True¬University Hospital Of South Manchester NHS Foundation Trust¬Wythenshawe Hospital¬Southmoor Road¬Wythenshawe¬Manchester¬Greater Manchester¬M23 9LT¬53.388481140136719¬-2.2946460247039795
+41160¬RM3¬Trust¬Acute¬Visible¬True¬Salford Royal NHS Foundation Trust¬Salford Royal NHS Foundation Trust¬Stott Lane¬¬Salford¬¬M6 8HD¬53.486377716064453¬-2.3239583969116211
+41196¬RMC¬Trust¬Acute¬Visible¬True¬Bolton NHS Foundation Trust¬The Royal Bolton Hospital¬Minerva Road¬Farnworth¬Bolton¬Lancashire¬BL4 0JR¬53.554351806640625¬-2.4316487312316895
+41221¬RMP¬Trust¬Acute¬Visible¬True¬Tameside Hospital NHS Foundation Trust¬Tameside General Hospital¬Fountain Street¬¬Ashton-under-Lyne¬Lancashire¬OL6 9RW¬53.4921875¬-2.072293758392334
+41223¬RMY¬Trust¬MentalHealth¬Visible¬True¬Norfolk and Suffolk NHS Foundation Trust¬Hellesdon Hospital¬Drayton High Road¬¬Norwich¬Norfolk¬NR6 5BE¬52.659297943115234¬1.2501001358032227
+41245¬RN3¬Trust¬Acute¬Visible¬True¬Great Western Hospitals NHS Foundation Trust¬Great Western Hospital¬Marlborough Road¬¬Swindon¬Wiltshire¬SN3 6BB¬51.537490844726563¬-1.7288789749145508
+41258¬RN5¬Trust¬Acute¬Visible¬True¬Hampshire Hospitals NHS Foundation Trust¬¬Aldermaston Road¬¬Basingstoke¬Hampshire¬RG24 9NA¬51.27996826171875¬-1.111020565032959
+41263¬RN7¬Trust¬Acute¬Visible¬True¬Dartford and Gravesham NHS Trust¬Darent Valley Hospital¬Darenth Wood Road¬¬Dartford¬Kent¬DA2 8DA¬51.434249877929687¬0.2572721540927887
+41267¬RNA¬Trust¬Acute¬Visible¬True¬The Dudley Group NHS Foundation Trust¬C Block¬Russells Hall Hospital¬Pensnett Road¬Dudley¬West Midlands¬DY1 2HQ¬52.501544952392578¬-2.1177921295166016
+41288¬RNK¬Trust¬MentalHealth¬Visible¬True¬Tavistock and Portman NHS Foundation Trust¬The Tavistock Centre¬120 Belsize Lane¬¬London¬¬NW3 5BA¬51.546100616455078¬-0.17564815282821655
+41289¬RNL¬Trust¬Acute¬Visible¬True¬North Cumbria University Hospitals NHS Trust¬West Cumberland Hospital¬Hensingham¬¬Whitehaven¬Cumberland¬CA28 8JG¬54.530059814453125¬-3.5637729167938232
+41307¬RNN¬Trust¬Health and Care¬Visible¬True¬Cumbria Partnership NHS Foundation Trust¬Voreda¬Portland Place¬¬Penrith¬¬CA11 7QQ¬54.667224884033203¬-2.7550129890441895
+41337¬RNQ¬Trust¬Acute¬Visible¬True¬Kettering General Hospital NHS Foundation Trust¬Kettering General Hospital¬Rothwell Road¬¬Kettering¬Northamptonshire¬NN16 8UZ¬52.402313232421875¬-0.74174755811691284
+41344¬RNS¬Trust¬Acute¬Visible¬True¬Northampton General Hospital NHS Trust¬Cliftonville¬¬¬Northampton¬Northamptonshire¬NN1 5BD¬52.236545562744141¬-0.88702428340911865
+41351¬RNU¬Trust¬MentalHealth¬Visible¬True¬Oxford Health NHS Foundation Trust¬Corporate Headquarters¬4000 John Smith Drive¬Oxford Business Park South¬Oxford¬Oxfordshire¬OX4 2GX¬51.728469848632812¬-1.2108453512191772
+41352¬RNZ¬Trust¬Acute¬Visible¬True¬Salisbury NHS Foundation Trust¬Salisbury District Hospital¬Odstock Road¬¬Salisbury¬Wiltshire¬SP2 8BJ¬51.043067932128906¬-1.7902547121047974
+41380¬RP1¬Trust¬MentalHealth¬Visible¬True¬Northamptonshire Healthcare NHS Foundation Trust¬Sudborough House¬St. Marys Hospital¬77 London Road¬Kettering¬Northamptonshire¬NN15 7PW¬52.394020080566406¬-0.722878098487854
+41402¬RP4¬Trust¬Acute¬Visible¬True¬Great Ormond Street Hospital for Children NHS Foundation Trust¬Great Ormond Street¬¬¬London¬Greater London¬WC1N 3JH¬51.5218505859375¬-0.120400071144104
+41404¬RP5¬Trust¬Acute¬Visible¬True¬Doncaster and Bassetlaw Hospitals NHS Foundation Trust¬Doncaster Royal Infirmary¬Armthorpe Road¬¬Doncaster¬¬DN2 5LT¬53.530246734619141¬-1.1098706722259521
+41411¬RP6¬Trust¬Acute¬Visible¬True¬Moorfields Eye Hospital NHS Foundation Trust¬¬162 City Road¬¬London¬¬EC1V 2PD¬51.526752471923828¬-8.9923776686191559E-2
+41428¬RP7¬Trust¬MentalHealth¬Visible¬True¬Lincolnshire Partnership NHS Foundation Trust¬Units 8 and 9¬The Point¬Lions Way¬Sleaford¬Lincolnshire¬NG34 8GG¬53.008548736572266¬-0.39330717921257019
+41439¬RPA¬Trust¬Acute¬Visible¬True¬Medway NHS Foundation Trust¬Medway Maritime Hospital¬Windmill Road¬¬Gillingham¬Kent¬ME7 5NY¬51.378055572509766¬0.54191857576370239
+41474¬RPC¬Trust¬Acute¬Visible¬True¬Queen Victoria Hospital NHS Foundation Trust¬Holtye Road¬¬¬East Grinstead¬West Sussex¬RH19 3DZ¬51.135013580322266¬-3.2172789797186852E-3
+41491¬RPG¬Trust¬MentalHealth¬Visible¬True¬Oxleas NHS Foundation Trust¬Pinewood House¬Pinewood Place¬¬Dartford¬Kent¬DA2 7WG¬51.433052062988281¬0.17808189988136292
+41503¬RPY¬Trust¬Acute¬Visible¬True¬The Royal Marsden NHS Foundation Trust¬Fulham Road¬¬¬London¬Greater London¬SW3 6JJ¬51.490314483642578¬-0.17355450987815857
+41506¬RQ3¬Trust¬Acute¬Visible¬True¬Birmingham Children's Hospital NHS Foundation Trust¬Steelhouse Lane¬¬¬Birmingham¬West Midlands¬B4 6NH¬52.484477996826172¬-1.8953900337219238
+41510¬RQ6¬Trust¬Acute¬Visible¬True¬Royal Liverpool and Broadgreen University Hospitals NHS Trust¬Royal Liverpool University Hospital¬Prescot Street¬¬Liverpool¬Merseyside¬L7 8XP¬53.409206390380859¬-2.9657201766967773
+41527¬RQ8¬Trust¬Acute¬Visible¬True¬Mid Essex Hospital Services NHS Trust¬Broomfield Hospital¬Court Road¬¬Chelmsford¬Essex¬CM1 7ET¬51.774520874023437¬0.46411621570587158
+41544¬RQM¬Trust¬Acute¬Visible¬True¬Chelsea and Westminster Hospital NHS Foundation Trust¬¬369 Fulham Road¬¬London¬¬SW10 9NH¬51.484157562255859¬-0.18244218826293945
+41551¬RQQ¬Trust¬Acute¬Visible¬True¬Hinchingbrooke Health Care NHS Trust¬Hinchingbrooke Hospital¬Hinchingbrooke Park Road¬¬Huntingdon¬Cambridgeshire¬PE29 6NT¬52.333320617675781¬-0.20360460877418518
+41555¬RQW¬Trust¬Acute¬Visible¬True¬The Princess Alexandra Hospital NHS Trust¬Hamstel Road¬Hamstel Road¬¬Harlow¬Essex¬CM20 1QX¬51.77105712890625¬8.5609063506126404E-2
+41564¬RQX¬Trust¬Acute¬Visible¬True¬Homerton University Hospital NHS Foundation Trust¬Homerton Row¬¬¬London¬Greater London¬E9 6SR¬51.550327301025391¬-4.7107171267271042E-2
+41570¬RQY¬Trust¬MentalHealth¬Visible¬True¬South West London and St George's Mental Health NHS Trust¬Springfield Hospital¬61 Glenburnie Road¬¬London¬¬SW17 7DJ¬51.435382843017578¬-0.16855266690254211
+41580¬RR1¬Trust¬Acute¬Visible¬True¬Heart Of England NHS Foundation Trust¬Birmingham Heartlands Hospital¬Bordesley Green East¬¬Birmingham¬West Midlands¬B9 5ST¬52.477207183837891¬-1.8276805877685547
+41601¬RR7¬Trust¬Acute¬Visible¬True¬Gateshead Health NHS Foundation Trust¬Queen Elizabeth Hospital¬Sheriff Hill¬¬Gateshead¬Tyne and Wear¬NE9 6SX¬54.938449859619141¬-1.5816491842269897
+41610¬RR8¬Trust¬Acute¬Visible¬True¬Leeds Teaching Hospitals NHS Trust¬St. James's University Hospital¬Beckett Street¬¬Leeds¬West Yorkshire¬LS9 7TF¬53.806735992431641¬-1.5201023817062378
+41623¬RRD¬Trust¬MentalHealth¬Visible¬True¬North Essex Partnership NHS Foundation Trust¬Stapleford House¬Stapleford Close¬¬Chelmsford¬Essex¬CM2 0QX¬51.729518890380859¬0.46601179242134094
+41631¬RRE¬Trust¬MentalHealth¬Visible¬True¬South Staffordshire and Shropshire Healthcare NHS Foundation Trust¬Trust Headquarters¬St. Georges Hospital¬Corporation Street¬Stafford¬Staffordshire¬ST16 3SR¬52.809898376464844¬-2.1097245216369629
+41722¬RRF¬Trust¬Acute¬Visible¬True¬Wrightington, Wigan and Leigh NHS Foundation Trust¬The Elms¬Royal Albert Edward Infirmary¬Wigan Lane¬Wigan¬Lancashire¬WN1 2NN¬53.557060241699219¬-2.6309382915496826
+41733¬RRJ¬Trust¬Acute¬Visible¬True¬The Royal Orthopaedic Hospital NHS Foundation Trust¬¬Bristol Road South¬Northfield¬Birmingham¬West Midlands¬B31 2AP¬52.420688629150391¬-1.9617102146148682
+41743¬RRK¬Trust¬Acute¬Visible¬True¬University Hospital Birmingham NHS Foundation Trust¬Trust HQ, Po Box 9551¬Queen Elizabeth Medical Centre¬Edgbaston¬Birmingham¬West Midlands¬B15 2TH¬52.453041076660156¬-1.9366666078567505
+41758¬RRP¬Trust¬MentalHealth¬Visible¬True¬Barnet, Enfield and Haringey Mental Health NHS Trust¬Trust Headquarters Block B2¬St Ann's Hospital¬St Ann's Road¬London¬¬N15 3TH¬51.579864501953125¬-0.09347078949213028
+41799¬RRU¬Trust¬Ambulance¬Visible¬True¬London Ambulance Service NHS Trust¬220 Waterloo Road¬¬¬London¬Greater London¬SE1 8SD¬51.500095367431641¬-0.10976885259151459
+41803¬RRV¬Trust¬Acute¬Visible¬True¬University College London Hospitals NHS Foundation Trust¬¬250 Euston Road¬¬London¬¬NW1 2PG¬51.525718688964844¬-0.13753989338874817
+41825¬RT1¬Trust¬MentalHealth¬Visible¬True¬Cambridgeshire and Peterborough NHS Foundation Trust¬Elizabeth House¬Fulbourn Hospital¬Fulbourn¬Cambridge¬¬CB21 5EF¬52.184661865234375¬0.18683162331581116
+41830¬RT2¬Trust¬Health and Care¬Visible¬True¬Pennine Care NHS Foundation Trust¬Trust Headquarters¬225 Old Street¬¬Ashton-under-Lyne¬Lancashire¬OL6 7SR¬53.484977722167969¬-2.1009142398834229
+41840¬RT3¬Trust¬Acute¬Visible¬True¬Royal Brompton and Harefield NHS Foundation Trust¬Royal Brompton Hospital¬Sydney Street¬¬London¬Greater London¬SW3 6NP¬51.489395141601563¬-0.1721508800983429
+41843¬RT5¬Trust¬MentalHealth¬Visible¬True¬Leicestershire Partnership NHS Trust¬Lakeside House¬4 Smith Way¬Enderby¬Leicester¬Leicestershire¬LE19 1SS¬52.612140655517578¬-1.1950583457946777
+41861¬RTD¬Trust¬Acute¬Visible¬True¬The Newcastle Upon Tyne Hospitals NHS Foundation Trust¬Freeman Hospital¬Freeman Road¬High Heaton¬Newcastle-upon-Tyne¬Tyne and Wear¬NE7 7DN¬55.002292633056641¬-1.5934921503067017
+41886¬RTE¬Trust¬Acute¬Visible¬True¬Gloucestershire Hospitals NHS Foundation Trust¬Trust HQ¬1 College Lawn¬¬Cheltenham¬Gloucestershire¬GL53 7AG¬51.890235900878906¬-2.071138858795166
+41936¬RTF¬Trust¬Acute¬Visible¬True¬Northumbria Healthcare NHS Foundation Trust¬Rake Lane¬¬¬North Shields¬Tyne and Wear¬NE29 8NH¬55.025169372558594¬-1.4665590524673462
+41973¬RTG¬Trust¬Acute¬Visible¬True¬Derby Hospitals NHS Foundation Trust¬Royal Derby Hospital¬Uttoxeter Road¬¬Derby¬Derbyshire¬DE22 3NE¬52.911434173583984¬-1.5136939287185669
+41983¬RTH¬Trust¬Acute¬Visible¬True¬Oxford University Hospitals NHS Trust¬John Radcliffe Hospital¬Headley Way¬Headington¬Oxford¬Oxfordshire¬OX3 9DU¬51.763599395751953¬-1.2203762531280518
+42025¬RTK¬Trust¬Acute¬Visible¬True¬Ashford and St Peter's Hospitals NHS Foundation Trust¬St Peters Hospital¬Guildford Road¬¬Chertsey¬Surrey¬KT16 0PZ¬51.376594543457031¬-0.52724385261535645
+42064¬RTP¬Trust¬Acute¬Visible¬True¬Surrey and Sussex Healthcare NHS Trust¬East Surrey Hospital¬Canada Avenue¬¬Redhill¬Surrey¬RH1 5RH¬51.218547821044922¬-0.16141939163208008
+42075¬RTQ¬Trust¬MentalHealth¬Visible¬True¬2gether NHS Foundation Trust¬Rikenel¬Montpellier¬¬Gloucester¬Gloucestershire¬GL1 1LY¬51.860332489013672¬-2.2453432083129883
+42108¬RTR¬Trust¬Acute¬Visible¬True¬South Tees Hospitals NHS Foundation Trust¬The James Cook University Hospital¬Marton Road¬¬Middlesbrough¬Cleveland¬TS4 3BW¬54.551998138427734¬-1.2145534753799438
+42136¬RTV¬Trust¬MentalHealth¬Visible¬True¬5 Boroughs Partnership NHS Foundation Trust¬Hollins Park Hospital¬Hollins Lane¬Winwick¬Warrington¬Cheshire¬WA2 8WA¬53.427738189697266¬-2.6094560623168945
+42180¬RTX¬Trust¬Acute¬Visible¬True¬University Hospitals Of Morecambe Bay NHS Foundation Trust¬Westmorland General Hospital¬Burton Road¬¬Kendal¬Cumbria¬LA9 7RG¬54.306076049804688¬-2.7330174446105957
+42190¬RV3¬Trust¬MentalHealth¬Visible¬True¬Central and North West London NHS Foundation Trust¬Stephenson House¬75 Hampstead Road¬¬London¬¬NW1 2PL¬51.526664733886719¬-0.14038459956645966
+42208¬RV5¬Trust¬MentalHealth¬Visible¬True¬South London and Maudsley NHS Foundation Trust¬Maudsley Hospital¬Denmark Hill¬¬London¬Greater London¬SE5 8AZ¬51.468341827392578¬-9.2364251613616943E-2
+42238¬RV8¬Trust¬Acute¬Visible¬True¬North West London Hospitals NHS Trust¬Northwick Park Hospital¬Watford Road¬¬Harrow¬Middlesex¬HA1 3UJ¬51.574378967285156¬-0.32315731048583984
+42244¬RV9¬Trust¬MentalHealth¬Visible¬True¬Humber NHS Foundation Trust¬Trust HQ, Willerby Hill¬Beverley Road¬Willerby¬Hull¬Yorkshire(East Riding)¬HU10 6ED¬53.769824981689453¬-0.45086926221847534
+42267¬RVJ¬Trust¬Acute¬Visible¬True¬North Bristol NHS Trust¬Frenchay Hospital¬Beckspool Road¬Frenchay¬Bristol¬¬BS16 1JE¬51.496177673339844¬-2.5228385925292969
+42307¬RVL¬Trust¬Acute¬Visible¬True¬Barnet and Chase Farm Hospitals NHS Trust¬Chase Farm Hospital¬The Ridgeway¬¬Enfield¬Middlesex¬EN2 8JL¬51.665470123291016¬-0.10433951020240784
+42313¬RVN¬Trust¬MentalHealth¬Visible¬True¬Avon and Wiltshire Mental Health Partnership NHS Trust¬Jenner House¬Langley Park¬¬Chippenham¬Wiltshire¬SN15 1GG¬51.467620849609375¬-2.1093463897705078
+42345¬RVR¬Trust¬Acute¬Visible¬True¬Epsom and St Helier University Hospitals NHS Trust¬St Helier Hospital¬Wrythe Lane¬¬Carshalton¬Surrey¬SM5 1AA¬51.379863739013672¬-0.18370258808135986
+42361¬RVV¬Trust¬Acute¬Visible¬True¬East Kent Hospitals University NHS Foundation Trust¬Kent and Canterbury Hospital¬Ethelbert Road¬¬Canterbury¬Kent¬CT1 3NG¬51.266033172607422¬1.0862574577331543
+42472¬RVW¬Trust¬Acute¬Visible¬True¬North Tees and Hartlepool NHS Foundation Trust¬University Hospital Of Hartlepool¬Holdforth Road¬¬Hartlepool¬Cleveland¬TS24 9AH¬54.702171325683594¬-1.2287255525588989
+42482¬RVY¬Trust¬Acute¬Visible¬True¬Southport and Ormskirk Hospital NHS Trust¬¬Town Lane¬¬Southport¬¬PR8 6PN¬53.632911682128906¬-2.9798965454101562
+42488¬RW1¬Trust¬MentalHealth¬Visible¬True¬Southern Health NHS Foundation Trust¬¬Tatchbury Mount¬Calmore¬Southampton¬Hampshire¬SO40 2RZ¬50.929904937744141¬-1.5289424657821655
+42568¬RW3¬Trust¬Acute¬Visible¬True¬Central Manchester University Hospitals NHS Foundation Trust¬Trust Headquarters, Cobbett House¬Manchester Royal Infirmary¬Oxford Road¬Manchester¬¬M13 9WL¬53.460536956787109¬-2.2258636951446533
+42617¬RW4¬Trust¬MentalHealth¬Visible¬True¬Mersey Care NHS Trust¬8 Princes Parade¬¬¬Liverpool¬Merseyside¬L3 1DL¬53.407123565673828¬-3.0002715587615967
+42621¬RW5¬Trust¬Health and Care¬Visible¬True¬Lancashire Care NHS Foundation Trust¬Sceptre Point¬Sceptre Way¬Bamber Bridge¬Preston¬Lancashire¬PR5 6AW¬53.718807220458984¬-2.6394188404083252
+42642¬RW6¬Trust¬Acute¬Visible¬True¬Pennine Acute Hospitals NHS Trust¬Trust Headquarters¬North Manchester General Hospital¬Delaunays Road, Crumpsall¬Manchester¬Greater Manchester¬M8 5RB¬53.517154693603516¬-2.2306892871856689
+42659¬RWA¬Trust¬Acute¬Visible¬True¬Hull and East Yorkshire Hospitals NHS Trust¬Hull Royal Infirmary¬Anlaby Road¬¬Hull¬¬HU3 2JZ¬53.744335174560547¬-0.35930538177490234
+42666¬RWD¬Trust¬Acute¬Visible¬True¬United Lincolnshire Hospitals NHS Trust¬Trust Headquarters¬Lincoln County Hospital¬Greetwell Road¬Lincoln¬Lincolnshire¬LN2 4AX¬53.234989166259766¬-0.52418625354766846
+42678¬RWE¬Trust¬Acute¬Visible¬True¬University Hospitals Of Leicester NHS Trust¬University Hospitals of Leicester Headquarters¬Level 3, Balmoral Building¬Leicester Royal Infirmary, Infirmary Square¬Leicester¬Leicestershire¬LE1 5WW¬52.627006530761719¬-1.1356905698776245
+42683¬RWF¬Trust¬Acute¬Visible¬True¬Maidstone and Tunbridge Wells NHS Trust¬Maidstone Hospital¬Hermitage Lane¬¬Maidstone¬Kent¬ME16 9QQ¬51.273193359375¬0.4830741286277771
+42711¬RWG¬Trust¬Acute¬Visible¬True¬West Hertfordshire Hospitals NHS Trust¬Trust Offices¬Watford General Hospital¬Vicarage Road¬Watford¬Hertfordshire¬WD18 0HB¬51.648368835449219¬-0.40571022033691406
+42717¬RWH¬Trust¬Acute¬Visible¬True¬East and North Hertfordshire NHS Trust¬Lister Hospital¬Coreys Mill Lane¬¬Stevenage¬Hertfordshire¬SG1 4AB¬51.924362182617188¬-0.21416117250919342
+42722¬RWJ¬Trust¬Acute¬Visible¬True¬Stockport NHS Foundation Trust¬Stepping Hill Hospital¬Poplar Grove¬¬Stockport¬Cheshire¬SK2 7JE¬53.383377075195312¬-2.132244348526001
+42729¬RWK¬Trust¬MentalHealth¬Visible¬True¬East London NHS Foundation Trust¬EastOne¬22 Commercial Street¬¬London¬¬E1 6LP¬51.51568603515625¬-7.3091268539428711E-2
+42736¬RWN¬Trust¬MentalHealth¬Visible¬True¬South Essex Partnership University NHS Foundation Trust¬The Lodge¬The Chase¬¬Wickford¬Essex¬SS11 7XX¬51.634403228759766¬0.54033297300338745
+42749¬RWP¬Trust¬Acute¬Visible¬True¬Worcestershire Acute Hospitals NHS Trust¬Worcestershire Royal Hospital¬Charles Hastings Way¬¬Worcester¬Worcestershire¬WR5 1DD¬52.190406799316406¬-2.181330680847168
+42772¬RWR¬Trust¬MentalHealth¬Visible¬True¬Hertfordshire Partnership University NHS Foundation Trust¬Hertfordshire Partnership University NHS Foundation Trust¬99 Waverley Road¬¬St. Albans¬¬AL3 5TL¬51.761749267578125¬-0.34665513038635254
+42811¬RWV¬Trust¬MentalHealth¬Visible¬True¬Devon Partnership NHS Trust¬Wonford House Hospital¬Dryden Road¬¬Exeter¬Devon¬EX2 5AF¬50.715183258056641¬-3.507042407989502
+42834¬RWW¬Trust¬Acute¬Visible¬True¬Warrington and Halton Hospitals NHS Foundation Trust¬Warrington Hospital¬Lovely Lane¬¬Warrington¬Cheshire¬WA5 1QG¬53.393566131591797¬-2.6119751930236816
+42842¬RWX¬Trust¬MentalHealth¬Visible¬True¬Berkshire Healthcare NHS Foundation Trust¬Fitzwilliam House¬Skimped Hill Lane¬¬Bracknell¬Berkshire¬RG12 1BQ¬51.416114807128906¬-0.75606489181518555
+42863¬RWY¬Trust¬Acute¬Visible¬True¬Calderdale and Huddersfield NHS Foundation Trust¬Royal Infirmary¬Acre Street¬¬Huddersfield¬West Yorkshire¬HD3 3EA¬53.654758453369141¬-1.8168709278106689
+42877¬RX1¬Trust¬Acute¬Visible¬True¬Nottingham University Hospitals NHS Trust¬Trust Headquarters¬City Hospital campus¬Hucknall Road¬Nottingham¬Nottinghamshire¬NG5 1PB¬52.988578796386719¬-1.1612653732299805
+42882¬RX2¬Trust¬MentalHealth¬Visible¬True¬Sussex Partnership NHS Foundation Trust¬Swandean¬Arundel Road¬¬Worthing¬West Sussex¬BN13 3EP¬50.840919494628906¬-0.41208073496818542
+42951¬RX3¬Trust¬MentalHealth¬Visible¬True¬Tees, Esk and Wear Valleys NHS Foundation Trust¬Trust Headquarters¬West Park Hospital¬Edward Pease Way¬Darlington¬Durham¬DL2 2TS¬54.543075561523438¬-1.5918841361999512
+42999¬RX4¬Trust¬MentalHealth¬Visible¬True¬Northumberland, Tyne and Wear NHS Foundation Trust¬St. Nicholas Hospital¬Jubilee Road¬Gosforth¬Newcastle Upon Tyne¬Tyne and Wear¬NE3 3XT¬55.006023406982422¬-1.635668158531189
+43014¬RX6¬Trust¬Ambulance¬Visible¬True¬North East Ambulance Service NHS Foundation Trust¬Bernicia House¬Goldcrest Way¬Newburn Riverside¬Newcastle Upon Tyne¬¬NE15 8NY¬54.969387054443359¬-1.7141016721725464
+43015¬RX7¬Trust¬Ambulance¬Visible¬True¬North West Ambulance Service NHS Trust¬Ladybridge Hall¬399 Chorley New Road¬¬Bolton¬¬BL1 5DD¬53.578445434570313¬-2.4772038459777832
+43016¬RX8¬Trust¬Ambulance¬Visible¬True¬Yorkshire Ambulance Service NHS Trust¬Springhill 2¬Wakefield 41 Industrial Estate¬Brindley Way¬Wakefield¬West Yorkshire¬WF2 0XQ¬53.708759307861328¬-1.518187403678894
+43017¬RX9¬Trust¬Ambulance¬Visible¬True¬East Midlands Ambulance Service NHS Trust¬1 Horizon Place¬Mellors Way¬Nottingham Business Par¬Nottingham¬Nottinghamshire¬NG8 6PY¬52.981010437011719¬-1.2388620376586914
+43018¬RXA¬Trust¬MentalHealth¬Visible¬True¬Cheshire and Wirral Partnership NHS Foundation Trust¬Trust Headquarters Redesmere¬Countess of Chester Health Park¬Liverpool Road¬Chester¬Cheshire¬CH2 1BQ¬53.211063385009766¬-2.8998637199401855
+43031¬RXC¬Trust¬Acute¬Visible¬True¬East Sussex Healthcare NHS Trust¬St. Annes House¬729 The Ridge¬¬St. Leonards-on-Sea¬East Sussex¬TN37 7PT¬50.887481689453125¬0.56061458587646484
+43038¬RXE¬Trust¬MentalHealth¬Visible¬True¬Rotherham Doncaster and South Humber NHS Foundation Trust¬Woodfield House¬Tickhill Road¬Balby¬Doncaster¬¬DN4 8QN¬53.494560241699219¬-1.1467949151992798
+43045¬RXF¬Trust¬Acute¬Visible¬True¬Mid Yorkshire Hospitals NHS Trust¬Trust HQ and Education Centre¬Aberford Road¬¬Wakefield¬West Yorkshire¬WF1 4DG¬53.692462921142578¬-1.4895999431610107
+43055¬RXG¬Trust¬MentalHealth¬Visible¬True¬South West Yorkshire Partnership NHS Foundation Trust¬Trust Headquarters¬Fieldhead¬Ouchthorpe Lane¬Wakefield¬West Yorkshire¬WF1 3SP¬53.698764801025391¬-1.4925528764724731
+43072¬RXH¬Trust¬Acute¬Visible¬True¬Brighton and Sussex University Hospitals NHS Trust¬Royal Sussex County Hospital¬Eastern Road¬¬Brighton¬East Sussex¬BN2 5BE¬50.819473266601563¬-0.11892900615930557
+43106¬RXK¬Trust¬Acute¬Visible¬True¬Sandwell and West Birmingham Hospitals NHS Trust¬City Hospital¬Dudley Road¬¬Birmingham¬West Midlands¬B18 7QH¬52.488998413085937¬-1.9307243824005127
+43135¬RXL¬Trust¬Acute¬Visible¬True¬Blackpool Teaching Hospitals NHS Foundation Trust¬Victoria Hospital¬Whinney Heys Road¬¬Blackpool¬Lancashire¬FY3 8NR¬53.820457458496094¬-3.0176875591278076
+43173¬RXM¬Trust¬MentalHealth¬Visible¬True¬Derbyshire Healthcare NHS Foundation Trust¬Trust Headquarters¬Kingsway Site¬Kingsway¬Derby¬Derbyshire¬DE22 3LZ¬52.915927886962891¬-1.5136436223983765
+43181¬RXN¬Trust¬Acute¬Visible¬True¬Lancashire Teaching Hospitals NHS Foundation Trust¬Chief Executive's Office¬Royal Preston Hospital¬Sharoe Green Lane, Fulwood¬Preston¬Lancashire¬PR2 9HT¬53.791221618652344¬-2.7088284492492676
+43191¬RXP¬Trust¬Acute¬Visible¬True¬County Durham and Darlington NHS Foundation Trust¬Darlington Memorial Hospital¬Hollyhurst Road¬¬Darlington¬County Durham¬DL3 6HX¬54.531299591064453¬-1.5657318830490112
+43207¬RXQ¬Trust¬Acute¬Visible¬True¬Buckinghamshire Healthcare NHS Trust¬Amersham Hospital¬Whielden Street¬¬Amersham¬Buckinghamshire¬HP7 0JD¬51.662796020507813¬-0.62208652496337891
+43220¬RXR¬Trust¬Acute¬Visible¬True¬East Lancashire Hospitals NHS Trust¬Royal Blackburn Hospital¬Haslingden Road¬¬Blackburn¬Lancashire¬BB2 3HH¬53.735782623291016¬-2.4668574333190918
+43291¬RXT¬Trust¬MentalHealth¬Visible¬True¬Birmingham and Solihull Mental Health NHS Foundation Trust¬Unit 1¬50 Summer Hill Road¬¬Birmingham¬¬B1 3RB¬52.483596801757813¬-1.9174801111221313
+43336¬RXV¬Trust¬MentalHealth¬Visible¬True¬Greater Manchester West Mental Health NHS Foundation Trust¬Prestwich Hospital¬Bury New Road¬Prestwich¬Manchester¬Greater Manchester¬M25 3BL¬53.535896301269531¬-2.292651891708374
+43347¬RXW¬Trust¬Acute¬Visible¬True¬Shrewsbury and Telford Hospital NHS Trust¬Royal Shrewsbury Hospital¬Mytton Oak Road¬¬Shrewsbury¬Shropshire¬SY3 8XQ¬52.709300994873047¬-2.7947723865509033
+43353¬RXX¬Trust¬MentalHealth¬Visible¬True¬Surrey and Borders Partnership NHS Foundation Trust¬Trust Headquarters¬18 Mole Business Park¬Randalls Road¬Leatherhead¬Surrey¬KT22 7AD¬51.296699523925781¬-0.33616304397583008
+43564¬RXY¬Trust¬MentalHealth¬Visible¬True¬Kent and Medway NHS and Social Care Partnership Trust¬Farm Villa¬Hermitage Lane¬¬Maidstone¬Kent¬ME16 9PH¬51.27313232421875¬0.48593845963478088
+43643¬RY1¬Trust¬Health and Care¬Visible¬True¬Liverpool Community Health NHS Trust¬Liverpool Innovation Park¬Digital Way¬¬Liverpool¬¬L7 9NJ¬53.407661437988281¬-2.9340946674346924
+43652¬RY2¬Trust¬Health and Care¬Visible¬True¬Bridgewater Community Healthcare NHS Trust¬Headquarters - Bevan House¬17 Beecham Court¬Smithy Brook Road¬Wigan¬Lancashire¬WN3 6PR¬53.528144836425781¬-2.659170389175415
+43653¬RY3¬Trust¬Health and Care¬Visible¬True¬Norfolk Community Health and Care NHS Trust¬Elliot House¬130 Ber Street¬¬Norwich¬Norfolk¬NR1 3FR¬52.621971130371094¬1.2990549802780151
+43664¬RY4¬Trust¬Health and Care¬Visible¬True¬Hertfordshire Community NHS Trust¬Unit 1a, Howard Court¬14 Tewin Road¬¬Welwyn Garden City¬Hertfordshire¬AL7 1BW¬51.801769256591797¬-0.19435319304466248
+43665¬RY5¬Trust¬Health and Care¬Visible¬True¬Lincolnshire Community Health Services NHS Trust¬Bridge House¬Unit 16¬The Point, Lions Way¬Sleaford¬Lincolnshire¬NG34 8GG¬53.008548736572266¬-0.39330717921257019
+43670¬RY6¬Trust¬Health and Care¬Visible¬True¬Leeds Community Healthcare NHS Trust¬Stockdale House¬8 Victoria Road¬¬Leeds¬West Yorkshire¬LS6 1PF¬53.814109802246094¬-1.5686190128326416
+43671¬RY7¬Trust¬Health and Care¬Visible¬True¬Wirral Community NHS Trust¬Old Market House¬Hamilton Street¬¬Birkenhead¬¬CH41 5AL¬53.39080810546875¬-3.0164299011230469
+43672¬RY8¬Trust¬Health and Care¬Visible¬True¬Derbyshire Community Health Services NHS Trust¬Newholme Hospital¬Baslow Road¬¬Bakewell¬Derbyshire¬DE45 1AD¬53.218509674072266¬-1.6734656095504761
+43685¬RY9¬Trust¬Health and Care¬Visible¬True¬Hounslow and Richmond Community Healthcare NHS Trust¬Thames House (headquarters)¬180 - 194 High Street¬¬Teddington¬Middlesex¬TW11 8HU¬51.426963806152344¬-0.32712072134017944
+43686¬RYA¬Trust¬Ambulance¬Visible¬True¬West Midlands Ambulance Service NHS Foundation Trust¬Waterfront Business Park¬Waterfront Way¬¬Brierley Hill¬West Midlands¬DY5 1LX¬52.485363006591797¬-2.1192214488983154
+43687¬RYC¬Trust¬Ambulance¬Visible¬True¬East Of England Ambulance Service NHS Trust¬Trust Headquarters¬Cambourne Building 1020¬Cambourne Business Park¬Cambourne¬Cambridgeshire¬CB23 6DN¬52.219772338867188¬-7.3503948748111725E-2
+43688¬RYD¬Trust¬Ambulance¬Visible¬True¬South East Coast Ambulance Service NHS Foundation Trust¬40-42 Friars Walk¬¬¬Lewes¬East Sussex¬BN7 2XW¬50.873012542724609¬1.3991565443575382E-2
+43689¬RYE¬Trust¬Ambulance¬Visible¬True¬South Central Ambulance Service NHS Foundation Trust¬Northern House¬7 - 8 Talisman Business Centre¬Talisman Road¬Bicester¬Oxfordshire¬OX26 6HR¬51.891681671142578¬-1.1498649120330811
+43690¬RYF¬Trust¬Ambulance¬Visible¬True¬South Western Ambulance Service NHS Foundation Trust¬Westcountry House¬Abbey Court, Eagle Way¬Sowton Industrial Estate¬Exeter¬Devon¬EX2 7HY¬50.719303131103516¬-3.4660921096801758
+43691¬RYG¬Trust¬MentalHealth¬Visible¬True¬Coventry and Warwickshire Partnership NHS Trust¬Wayside House¬Wilsons Lane¬¬Coventry¬Warwickshire¬CV6 6NY¬52.456443786621094¬-1.4878146648406982
+43799¬RYJ¬Trust¬Acute¬Visible¬True¬Imperial College Healthcare NHS Trust¬St. Marys Hospital¬Praed Street¬¬London¬Greater London¬W2 1NY¬51.516422271728516¬-0.17539297044277191
+43807¬RYK¬Trust¬MentalHealth¬Visible¬True¬Dudley and Walsall Mental Health Partnership NHS Trust¬Trafalgar House¬47-49 King Street¬¬Dudley¬West Midlands¬DY2 8PS¬52.507865905761719¬-2.0853955745697021
+43866¬RYR¬Trust¬Acute¬Visible¬True¬Western Sussex Hospitals NHS Foundation Trust¬Worthing Hospital¬Lyndhurst Road¬¬Worthing¬West Sussex¬BN11 2DH¬50.815982818603516¬-0.36466073989868164
+43872¬RYV¬Trust¬Health and Care¬Visible¬True¬Cambridgeshire Community Services NHS Trust¬Unit 3¬Meadow lane¬¬St. Ives¬Cambridgeshire¬PE27 4LG¬52.322181701660156¬-6.7591153085231781E-2
+43885¬RYW¬Trust¬Health and Care¬Visible¬True¬Birmingham Community Healthcare NHS Trust¬Trust Headquarters¬3, Priestley Wharf¬Holt Street¬Birmingham¬West Midlands¬B7 4BN¬52.487167358398438¬-1.8865478038787842
+43890¬RYX¬Trust¬Health and Care¬Visible¬True¬Central London Community Healthcare NHS Trust¬¬Central London Community Healthcare NHS Trust Head Office¬7th Floor, 64 Victoria Street¬London¬¬SW1E 6QP¬51.496963500976563¬-0.13871236145496368
+43892¬RYY¬Trust¬Health and Care¬Visible¬True¬Kent Community Health NHS Trust¬Customer Care Team¬Trinity House¬110-120 Upper Pemberton¬Ashford¬Kent¬TN25 4AZ¬51.170814514160156¬0.86957204341888428
+44070¬TAD¬Trust¬MentalHealth¬Visible¬True¬Bradford District Care Trust¬New Mill¬Victoria Road¬Saltaire¬Shipley¬West Yorkshire¬BD18 3LA¬53.838069915771484¬-1.7902395725250244
+44103¬TAE¬Trust¬MentalHealth¬Visible¬True¬Manchester Mental Health and Social Care Trust¬Chorlton House¬70 Manchester Road¬Chorlton Cum Hardy¬Manchester¬Greater Manchester¬M21 9UN¬53.444248199462891¬-2.2784712314605713
+44104¬TAF¬Trust¬MentalHealth¬Visible¬True¬Camden and Islington NHS Foundation Trust¬St. Pancras Hospital¬4 St. Pancras Way¬¬London¬Greater London¬NW1 0PE¬51.536434173583984¬-0.13277670741081238
+44105¬TAH¬Trust¬MentalHealth¬Visible¬True¬Sheffield Health and Social Care NHS Foundation Trust¬Fulwood House¬Old Fulwood Road¬¬Sheffield¬¬S10 3TH¬53.363681793212891¬-1.5386167764663696
+44185¬TAJ¬Trust¬Health and Care¬Visible¬True¬Black Country Partnership NHS Foundation Trust¬Delta Point¬Greets Green Road¬¬West Bromwich¬¬B70 9PL¬52.518684387207031¬-2.0176262855529785
+44244¬TAM¬Trust¬Health and Care¬Visible¬True¬Solihull Care Trust¬Friars Gate¬1011 Stratford Road, Shirley¬¬Solihull¬West Midlands¬B90 4BN¬52.390872955322266¬-1.8089137077331543
+58420¬NCD¬Trust¬Independent¬Visible¬False¬Ess Primary Care Solutions¬142 George Lane¬South Woodford¬¬London¬Greater London¬E18 1AY¬51.593185424804688¬2.4030992761254311E-2
+58423¬NCE¬Trust¬Independent¬Visible¬False¬Mastercall Healthcare¬226-232 Wellington Road South¬¬¬Stockport¬Cheshire¬SK2 6NW¬53.399528503417969¬-2.156358003616333
+58426¬NCF¬Trust¬Independent¬Visible¬False¬Ravenscroft Physiotherapy Centre Ltd¬Cross Deep Surgery¬4 Cross Deep¬¬Twickenham¬Middlesex¬TW1 4QP¬51.444999694824219¬-0.33077874779701233
+58457¬NDK¬Trust¬Independent¬Visible¬False¬Yarborough Clee Care Limited¬Freshney Green Primary Care Centre¬Sorrel Road¬¬Grimsby¬South Humberside¬DN34 4GB¬53.563610076904297¬-0.11263088136911392
+58506¬NLV¬Trust¬Independent¬Visible¬False¬Nems Healthcare¬484 Derby Road¬¬¬Nottingham¬Nottinghamshire¬NG7 2GW¬52.9473876953125¬-1.1843862533569336
+58536¬NLX¬Trust¬Independent¬Visible¬False¬Sirona Care & Health¬St. Martins Hospital¬Clara Cross Lane¬¬Bath¬Avon¬BA2 5RP¬51.357379913330078¬-2.3733329772949219
+58561¬NMH¬Trust¬Independent¬Visible¬False¬Norwich Practices Limited¬115-117 Castle Mall¬¬¬Norwich¬Norfolk¬NR1 3DD¬52.626579284667969¬1.2949681282043457
+58615¬NMK¬Trust¬Independent¬Visible¬True¬Healthshare Ltd¬Suite 1¬50 Churchill Square¬Kings Hill¬West Malling¬Kent¬ME19 4YU¬51.272350311279297¬0.39413505792617798
+58686¬NP5¬Trust¬Independent¬Visible¬False¬St Anne's¬City & South Cdts, Top Floor¬St. Annes Resource Centre¬66 York Street¬Leeds¬West Yorkshire¬LS9 8AA¬53.796005249023438¬-1.5338878631591797
+58714¬NQJ¬Trust¬Independent¬Visible¬False¬Chelmsford Medical Centre¬Fenton House¬New London Road¬¬Chelmsford¬Essex¬CM2 0PP¬51.729427337646484¬0.4703514575958252
+58716¬NQK¬Trust¬Independent¬Visible¬False¬Spiral Health C.I.C¬Bispham Hospital¬Rehabilitation Unit¬Ryscar Way¬Blackpool¬Lancashire¬FY2 0FN¬53.858173370361328¬-3.0216438770294189
+58718¬NQL¬Trust¬Independent¬Visible¬False¬Navigo¬Eleanor Centre¬21 Eleanor Street¬¬Grimsby¬South Humberside¬DN32 9EA¬53.566577911376953¬-7.3235504329204559E-2
+58754¬NR6¬Trust¬Independent¬Visible¬False¬St. Luke's Health Care¬Mild Professional Homes Ltd¬Bradley House¬Locks Hill¬Rochford¬Essex¬SS4 1BB¬51.580333709716797¬0.70620459318161011
+58995¬NV5¬Trust¬Independent¬Visible¬False¬Molecular Imaging Solutions Ltd (Mis)¬Beechwood Hall¬Kingsmead Road¬¬High Wycombe¬Buckinghamshire¬HP11 1JL¬51.607986450195313¬-0.70461708307266235
+59011¬NVE¬Trust¬Independent¬Visible¬True¬Integrated Care 24 Ltd¬Kingston House¬The Long Barrow, Orbital Park¬¬Ashford¬Kent¬TN24 0GP¬51.128902435302734¬0.89127248525619507
+59015¬NVF¬Trust¬Independent¬Visible¬False¬Assura Blackpool Llp¬Ground Floor, Unit 8¬Calder Court, Shorebury Point¬Amy Johnson Way¬Blackpool¬Lancashire¬FY4 2RH¬53.774520874023438¬-3.0287151336669922
+59025¬NAB¬Trust¬Independent¬Visible¬False¬Ecareserve Ltd¬22 Choumert Grove¬¬¬London¬Greater London¬SE15 4PD¬51.466167449951172¬-6.9419249892234802E-2
+59027¬NAC¬Trust¬Independent¬Visible¬False¬Streatham Young Person's Clinic¬Herne Hill Group Practice¬74 Herne Hill¬East Brixton¬London¬Greater London¬SE24 9QP¬51.454978942871094¬-0.10011827945709229
+59032¬NAW¬Trust¬Independent¬Visible¬False¬Choice Lifestyles Ltd¬38-39 Chatsworth Parade¬Petts Wood¬¬Orpington¬Kent¬BR5 1DE¬51.389125823974609¬0.07106868177652359
+59036¬NAX¬Trust¬Independent¬Visible¬True¬East Coast Community Healthcare C.I.C¬Beccles House¬1 Common Lane North¬¬Beccles¬Suffolk¬NR34 9BN¬52.461299896240234¬1.5667880773544312
+59058¬NAY¬Trust¬Independent¬Visible¬False¬Accelerate Health Cic¬Mile End Hospital¬275 Bancroft Road¬¬London¬Greater London¬E1 4DG¬51.524196624755859¬-4.3900754302740097E-2
+59060¬NBA¬Trust¬Independent¬Visible¬False¬Lifestyle Physiotherapy And Sports Injury Clinic¬42 Westgate¬¬¬Sleaford¬Lincolnshire¬NG34 7PN¬52.998924255371094¬-0.41303658485412598
+59062¬NBB¬Trust¬Independent¬Visible¬False¬The Helping Hand Company¬Bromyard Road¬¬¬Ledbury¬Herefordshire¬HR8 1NS¬52.050384521484375¬-2.4359569549560547
+59064¬NBC¬Trust¬Independent¬Visible¬False¬Geecol Wellness Ltd¬6 Maulkin Close¬¬¬Bury St Edmunds¬Suffolk¬IP32 7GG¬52.249320983886719¬0.74967974424362183
+59067¬NBJ¬Trust¬Independent¬Visible¬False¬Haltwhistle Medical Group¬Greencroft Avenue¬¬¬Haltwhistle¬Northumberland¬NE49 9AP¬54.969730377197266¬-2.4654457569122314
+59069¬NBK¬Trust¬Independent¬Visible¬True¬The Bariatric Consultancy Ltd¬Suite 1 Hawley Manor¬Hawley Road¬Hawley¬Dartford¬Kent¬DA1 1PX¬51.427665710449219¬0.22529882192611694
+59072¬NBL¬Trust¬Independent¬Visible¬False¬West Parade Physiotherapy Ltd¬Total Fitness¬Kingsley Road¬¬Lincoln¬Lincolnshire¬LN6 3TA¬53.202838897705078¬-0.61661994457244873
+59074¬NBM¬Trust¬Independent¬Visible¬False¬Direct Medical Imaging Ltd¬32 Orchard Road¬¬¬Lytham St. Annes¬Lancashire¬FY8 1PF¬53.749332427978516¬-3.0311324596405029
+59076¬NBN¬Trust¬Independent¬Visible¬True¬Ferneham Health Limited¬Gull Coppice¬Yew Tree Drive¬Whiteley¬Fareham¬Hampshire¬PO15 7LS¬50.880844116210937¬-1.2593604326248169
+59078¬NBO¬Trust¬Independent¬Visible¬False¬Turnpike Medical Ltd¬Toll Bar House¬Halfpenny Lane¬¬Louth¬Lincolnshire¬LN11 9QT¬53.356235504150391¬-1.9624654203653336E-2
+59081¬NBW¬Trust¬Independent¬Visible¬False¬Lambeth Community Diabetes Service¬Crown Dale Medical Centre¬61 Crown Dale¬¬London¬Greater London¬SE19 3NY¬51.422576904296875¬-9.8585501313209534E-2
+59083¬NBX¬Trust¬Independent¬Visible¬False¬Cardiocom (Uk) Limited¬Building 3, 1St Floor¬City West Business Park¬Gelderd Road¬Leeds¬West Yorkshire¬LS12 6LN¬53.779098510742188¬-1.57960045337677
+59085¬NBY¬Trust¬Independent¬Visible¬False¬Cambs & Peterborough Services¬City Care Centre¬Thorpe Road¬¬Peterborough¬Cambridgeshire¬PE3 6DB¬52.574226379394531¬-0.26018214225769043
+59087¬NCA¬Trust¬Independent¬Visible¬False¬Mk Gp Physiotherapy (B.J. Wetherell Ltd)¬Tudor House, 35 West End¬Bugbrooke¬¬Northampton¬Northamptonshire¬NN7 3PF¬52.207115173339844¬-1.0150784254074097
+59094¬NCB¬Trust¬Independent¬Visible¬False¬Lincoln Chiropractic Clinic¬Cabourne Avenue Health Care Complex¬Cabourne Court¬¬Lincoln¬Lincolnshire¬LN2 2JP¬53.246688842773438¬-0.52528244256973267
+59107¬NJQ¬Trust¬Independent¬Visible¬False¬Physiotherapy Matters Limited¬8 Newlands Avenue¬Melton Park¬Gosforth¬Newcastle Upon Tyne¬Tyne And Wear¬NE3 5PT¬55.024848937988281¬-1.6214196681976318
+59122¬NDW¬Trust¬Independent¬Visible¬False¬Ripplez Cic¬Revive Healthy Living Centre¬Roe Farm Lane¬¬Derby¬Derbyshire¬DE21 6ET¬52.930030822753906¬-1.4495165348052979
+59134¬NED¬Trust¬Independent¬Visible¬False¬Edics¬Novellus Court¬61 South Street¬¬Epsom¬Surrey¬KT18 7PX¬51.329917907714844¬-0.27036720514297485
+59147¬NEF¬Trust¬Independent¬Visible¬False¬Peninsula Ultrasound Limited¬18 Lemon Street¬¬¬Truro¬Cornwall¬TR1 2LS¬50.261245727539063¬-5.052943229675293
+59160¬NEL¬Trust¬Independent¬Visible¬False¬David Omerod Hearing Centres¬3 Charing Cross¬¬¬Birkenhead¬Merseyside¬CH41 6EJ¬53.388881683349609¬-3.0314204692840576
+59167¬NEM¬Trust¬Independent¬Visible¬False¬Diagnostic Healthcare Ltd¬Mansion House¬3 Bridgewater Embankment¬Manchester Road¬Altrincham¬Cheshire¬WA14 4RW¬53.397308349609375¬-2.3533587455749512
+59189¬NEW¬Trust¬Independent¬Visible¬False¬M.D & A.G Burdon Ltd¬21 Hermitage Gardens¬¬¬Chester Le Street¬County Durham¬DH2 3UD¬54.844112396240234¬-1.587296724319458
+59192¬NFC¬Trust¬Independent¬Visible¬False¬The Outside Clinic¬Old Town Court¬10-14 High Street¬¬Swindon¬Wiltshire¬SN1 3EP¬51.551074981689453¬-1.7749497890472412
+59202¬NFH¬Trust¬Independent¬Visible¬False¬Somerset Surgical Services Hq¬Weston General Hospital¬Grange Road¬Uphill¬Weston-Super-Mare¬Avon¬BS23 4TQ¬51.321575164794922¬-2.9714548587799072
+59211¬NFO¬Trust¬Independent¬Visible¬False¬Kleyn Healthcare¬93 Bewsey Street¬¬¬Warrington¬Cheshire¬WA2 7JQ¬53.391845703125¬-2.5969133377075195
+59215¬NFQ¬Trust¬Independent¬Visible¬False¬Sg Radiology And Associates Limited¬10 Boundary Drive¬¬¬Wakefield¬West Yorkshire¬WF1 3QQ¬53.697006225585938¬-1.5016614198684692
+59220¬NFS¬Trust¬Independent¬Visible¬True¬New Forest Clinics Ltd¬New Forest Physiotherapy Southampton¬Gang Warily Recreation Centre¬Newlands Road¬Fawley¬Hampshire¬SO45 1GA¬50.823955535888672¬-1.3724193572998047
+59232¬NGH¬Trust¬Independent¬Visible¬False¬Amplifon Hq¬Ultravox House¬Styal Road¬¬Manchester¬Greater Manchester¬M22 5WY¬53.364330291748047¬-2.2403812408447266
+59234¬NGJ¬Trust¬Independent¬Visible¬False¬Loughborough Physiotherapy And Sports Injuries Clinic Ltd¬51 Forest Road¬¬¬Loughborough¬Leicestershire¬LE11 3NW¬52.765998840332031¬-1.2144560813903809
+59236¬NGK¬Trust¬Independent¬Visible¬False¬Tlc Medical Centre Llp¬4-6 Greenside¬¬¬Pudsey¬West Yorkshire¬LS28 8PU¬53.790172576904297¬-1.6720820665359497
+59243¬NGT¬Trust¬Independent¬Visible¬False¬Centre For Sight Limited¬Hazelden Place¬¬¬East Grinstead¬West Sussex¬RH19 4RH¬51.111331939697266¬-3.8526613265275955E-2
+59245¬NGV¬Trust¬Independent¬Visible¬False¬Closer Healthcare Ltd¬Norwood House¬Norwood¬¬Beverley¬North Humberside¬HU17 9ET¬53.845081329345703¬-0.43137174844741821
+59261¬NHG¬Trust¬Independent¬Visible¬False¬Vanscan Ltd Hq¬The Consulting Rooms¬81 Friar Gate¬¬Derby¬Derbyshire¬DE1 1FL¬52.923912048339844¬-1.4882676601409912
+59267¬NHK¬Trust¬Independent¬Visible¬False¬Robin Newell Osteopath¬39B High Street¬Hampton Hill¬¬Hampton¬Middlesex¬TW12 1NB¬51.422916412353516¬-0.35891160368919373
+59274¬NHT¬Trust¬Independent¬Visible¬False¬Concordia Community Outpatients Ltd¬Unit 11.2.1¬The Leather Market¬11-13 Weston Street¬London¬Greater London¬SE1 3ER¬51.499698638916016¬-8.5291951894760132E-2
+59298¬NJD¬Trust¬Independent¬Visible¬False¬Preston Access Centre¬C/O Dodd & Co Clint Mill¬Cornmarket¬¬Penrith¬Cumbria¬CA11 7HW¬54.663631439208984¬-2.754946231842041
+59312¬NAN¬Trust¬Independent¬Visible¬False¬Enfield Health Partnership Limited¬Greenlane Surgery¬808 Green Lanes¬Winchmore Hill¬London¬Greater London¬N21 2SA¬51.632930755615234¬-9.4136402010917664E-2
+59315¬NAO¬Trust¬Independent¬Visible¬False¬A&Z Wounds Limited¬145-157 St. John Street¬¬¬London¬Greater London¬EC1V 4PW¬51.522468566894531¬-0.10307652503252029
+59317¬NAP¬Trust¬Independent¬Visible¬False¬John Hetherington (Aqp)¬29 Garths End¬Pocklington¬¬York¬North Yorkshire¬YO42 2JB¬53.933635711669922¬-0.78144294023513794
+59321¬NAQ¬Trust¬Independent¬Visible¬False¬Alec Ming¬18 Aston Hall Drive¬¬¬North Ferriby¬North Humberside¬HU14 3EB¬53.722915649414063¬-0.50867223739624023
+59322¬NAG¬Trust¬Independent¬Visible¬False¬Kca (Uk)¬Dan House¬44 East Street¬¬Faversham¬Kent¬ME13 8AT¬51.314113616943359¬0.89429593086242676
+59332¬NAH¬Trust¬Independent¬Visible¬False¬Matrix Health Services Uk Limited¬Evolve Centre¬Cygnet Way¬¬Houghton Le Spring¬Tyne And Wear¬DH4 5QY¬54.831134796142578¬-1.4831295013427734
+59335¬NAI¬Trust¬Independent¬Visible¬False¬Peacocks Medical Group Ltd¬Benfield Business Park¬Benfield Road¬¬Newcastle Upon Tyne¬Tyne And Wear¬NE6 4NQ¬54.985118865966797¬-1.5639750957489014
+59337¬NAJ¬Trust¬Independent¬Visible¬False¬East Riding Fertility Services Ltd¬The Hull Ivf Unit¬The Women & Children's Hospital¬Hull Royal Infirmary, Anlaby Rd¬Hull¬North Humberside¬HU3 2JZ¬53.744335174560547¬-0.35930538177490234
+59339¬NCM¬Trust¬Independent¬Visible¬False¬Six Degrees Social Enterprise Cic¬The Angel Centre¬1 St. Philips Place¬¬Salford¬Greater Manchester¬M3 6FA¬53.482933044433594¬-2.263655424118042
+59341¬NCN¬Trust¬Independent¬Visible¬False¬Dmc Healthcare¬Nice Business Park¬Sylvan Grove¬¬London¬Greater London¬SE15 1PD¬51.481277465820312¬-5.8699715882539749E-2
+59353¬NCT¬Trust¬Independent¬Visible¬False¬Parkside Medical Centre¬Whalley Drive¬Bletchley¬¬Milton Keynes¬Buckinghamshire¬MK3 6EN¬51.996898651123047¬-0.74877411127090454
+59357¬NCU¬Trust¬Independent¬Visible¬False¬Abacus Physiotherapy Ltd¬Freshney Green Primary Care Centre¬Sorrel Road¬¬Grimsby¬South Humberside¬DN34 4GB¬53.563610076904297¬-0.11263088136911392
+59359¬NCV¬Trust¬Independent¬Visible¬False¬Chec¬The Medical Centre¬High Street¬Collingham¬Newark¬Nottinghamshire¬NG23 7LB¬53.145092010498047¬-0.76051688194274902
+59375¬NCQ¬Trust¬Independent¬Visible¬False¬Dolby Medical Home Respiratory Care Ltd¬2Nd Floor, Southpoint¬Old Brighton Road¬Lowfield Heath¬Crawley¬West Sussex¬RH11 0PR¬51.145164489746094¬-0.1843525618314743
+59380¬NDG¬Trust¬Independent¬Visible¬False¬Stahmis¬Hertfordshire Clinic¬Art School Yard¬The Maltings, Victoria Street¬St. Albans¬Hertfordshire¬AL1 3YS¬51.750843048095703¬-0.33836111426353455
+59391¬NCX¬Trust¬Independent¬Visible¬False¬Arnold Medical Centre¬204 St. Annes Road¬¬¬Blackpool¬Lancashire¬FY4 2EF¬53.788822174072266¬-3.0381724834442139
+59393¬NCY¬Trust¬Independent¬Visible¬False¬Vh Doctors Ltd¬The School House¬50 Brook Green¬¬London¬Greater London¬W6 7RR¬51.495475769042969¬-0.21656732261180878
+59398¬NDB¬Trust¬Independent¬Visible¬False¬Ultrasound Now Ltd¬1St Floor, Maple House¬Park West¬Sealand Road¬Chester¬Cheshire¬CH1 4RN¬53.1947021484375¬-2.9234702587127686
+59401¬NL5¬Trust¬Independent¬Visible¬False¬The Injury Care Clinics Ltd¬Carnac House¬Carnac Court¬Cams Hall Estate¬Fareham¬Hampshire¬PO16 8UZ¬50.847854614257813¬-1.1675527095794678
+59403¬NL6¬Trust¬Independent¬Visible¬False¬Fraterdrive Ltd¬45 Queen Street¬¬¬Wolverhampton¬West Midlands¬WV1 3BJ¬52.58514404296875¬-2.1239204406738281
+59419¬NKD¬Trust¬Independent¬Visible¬False¬Insight Team¬The Zone¬14-16 Union Street¬¬Plymouth¬Devon¬PL1 2SR¬50.369640350341797¬-4.1485633850097656
+59427¬NKH¬Trust¬Independent¬Visible¬False¬Aecc¬13-15 Parkwood Road¬¬¬Bournemouth¬Dorset¬BH5 2DF¬50.726600646972656¬-1.8299218416213989
+59432¬NKK¬Trust¬Independent¬Visible¬False¬Angel And Bowden¬Builder House¬2 Mayors Road¬¬Altrincham¬Cheshire¬WA15 9RP¬53.384746551513672¬-2.3457374572753906
+59441¬NKV¬Trust¬Independent¬Visible¬False¬The Lincoln Physiotherapy & Sports Injuries Clinic¬8 Mill Lane¬North Hykeham¬¬Lincoln¬Lincolnshire¬LN6 9PD¬53.180072784423828¬-0.59191370010375977
+59447¬NKW¬Trust¬Independent¬Visible¬False¬Aston Healthcare Ltd¬Manor Farm Medical Centre¬Manor Farm Pcrc¬Manor Farm Road¬Liverpool¬Merseyside¬L36 0UB¬53.404811859130859¬-2.8332509994506836
+59454¬NL3¬Trust¬Independent¬Visible¬False¬Care Plus Group¬Port Office¬Cleethorpe Road¬¬Grimsby¬South Humberside¬DN31 3LL¬53.575611114501953¬-7.5845710933208466E-2
+59469¬NL9¬Trust¬Independent¬Visible¬False¬Crown Cosma Clinic Limited¬2 Bridge Drive¬¬¬Cheadle¬Cheshire¬SK8 1HN¬53.385055541992188¬-2.2149393558502197
+59473¬NLC¬Trust¬Independent¬Visible¬False¬Holywell Healthcare¬Holywell House Annexe¬Holywell Street¬¬Chesterfield¬Derbyshire¬S41 7SH¬53.238250732421875¬-1.4260939359664917
+59567¬NME¬Trust¬Independent¬Visible¬False¬Tarporley War Memorial Hospital Trust¬14 Park Road¬¬¬Tarporley¬Cheshire¬CW6 0AP¬53.158660888671875¬-2.6669542789459229
+59579¬NM0¬Trust¬Independent¬Visible¬False¬Rialto Care Services¬9 Bridge Road¬Blundellsands¬¬Liverpool¬Merseyside¬L23 6SA¬53.483192443847656¬-3.0397353172302246
+59581¬NM1¬Trust¬Independent¬Visible¬False¬West Lancashire Healthcare Partnership Community Cic¬Po Box 134¬Southport District General Hospital¬Town Lane¬Southport¬Merseyside¬PR8 6PN¬53.632911682128906¬-2.9798965454101562
+59593¬NML¬Trust¬Independent¬Visible¬False¬Affinity Healthcare¬100 Wilmslow Road¬Heald Green¬¬Cheadle¬Cheshire¬SK8 3DG¬53.374256134033203¬-2.2224001884460449
+59605¬NNA¬Trust¬Independent¬Visible¬True¬Tetbury Hospital Trust Limited¬Tetbury Hospital¬Malmesbury Road¬¬Tetbury¬Gloucestershire¬GL8 8XB¬51.634807586669922¬-2.1559851169586182
+59607¬NNC¬Trust¬Independent¬Visible¬False¬Solent Medical Services Limited¬Royal South Hants Hospital¬Brinton's Terrace¬¬Southampton¬Hampshire¬SO14 0YG¬50.912212371826172¬-1.3968371152877808
+59612¬NND¬Trust¬Independent¬Visible¬False¬Assura Minerva Llp¬The Coach House¬Kelston Park¬Kelston¬Bath¬Avon¬BA1 9AE¬51.393154144287109¬-2.4296777248382568
+59619¬NNE¬Trust¬Independent¬Visible¬False¬Dorking Healthcare Limited¬The Surgery¬Tanners Meadow¬Brockham¬Betchworth¬Surrey¬RH3 7NJ¬51.220417022705078¬-0.28449860215187073
+59625¬NNR¬Trust¬Independent¬Visible¬False¬Pims Pathway Ltd¬Woking Community Hospital¬Heathside Road¬¬Woking¬Surrey¬GU22 7HS¬51.314929962158203¬-0.55791735649108887
+59627¬NNT¬Trust¬Independent¬Visible¬False¬Assura Kingstanding¬Warren Farm Health Centre¬Warren Farm Road¬¬Birmingham¬West Midlands¬B44 0PU¬52.541996002197266¬-1.8790343999862671
+59632¬NP0¬Trust¬Independent¬Visible¬False¬Bexley Health Limited¬Queen Marys Hospital¬Frognal Avenue¬¬Sidcup¬Kent¬DA14 6LT¬51.418243408203125¬0.10258793830871582
+59642¬NP2¬Trust¬Independent¬Visible¬False¬Medical Imaging Uk Ltd¬The Triangle¬Wild Wood Drive¬¬Worcester¬Worcestershire¬WR5 2QX¬52.185016632080078¬-2.1769208908081055
+59647¬NMX¬Trust¬Independent¬Visible¬False¬Paydens (Nursing Homes) Ltd¬Sutton Road¬¬¬Maidstone¬Kent¬ME15 9AH¬51.254123687744141¬0.53364193439483643
+59653¬NN1¬Trust¬Independent¬Visible¬False¬The Royal Hospital For Neuro-Disability¬West Hill¬¬¬London¬Greater London¬SW15 3SW¬51.451370239257813¬-0.21396873891353607
+59710¬NQV¬Trust¬Independent¬Visible¬False¬Bromley Healthcare¬40-42 Masons Hill¬¬¬Bromley¬Kent¬BR2 9JG¬51.395347595214844¬2.3911166936159134E-2
+59733¬NXN¬Trust¬Independent¬Visible¬False¬Ak Medical Management Limited¬15-17 Fairfax Drive¬¬¬Westcliff On Sea¬Essex¬SS0 9AG¬51.5499267578125¬0.69862896203994751
+59734¬NXP¬Trust¬Independent¬Visible¬True¬Independent Health Group¬Patient Referral Centre¬Old Town Surgery¬Curie Avenue¬Swindon¬Wiltshire¬SN1 4GB¬51.550216674804687¬-1.7965869903564453
+59758¬NY7¬Trust¬Independent¬Visible¬False¬Regional Hearing Specialists Ltd¬111-113 Fore Street¬¬¬Saltash¬Cornwall¬PL12 6AE¬50.407997131347656¬-4.2136325836181641
+59764¬NYH¬Trust¬Independent¬Visible¬False¬Assura Hampshire¬Dickson House¬Crown Heights¬Alencon Link¬Basingstoke¬Hampshire¬RG21 7AH¬51.267192840576172¬-1.0868998765945435
+59776¬NYM¬Trust¬Independent¬Visible¬False¬Harrow Health Ltd¬37 Love Lane¬¬¬Pinner¬Middlesex¬HA5 3EE¬51.595005035400391¬-0.38303562998771667
+60167¬NPD¬Trust¬Independent¬Visible¬False¬Ivf Hammersmith Ltd¬92 Harley Street¬¬¬London¬Greater London¬W1G 7HU¬51.520488739013672¬-0.14784339070320129
+60206¬NRN¬Trust¬Independent¬Visible¬False¬Cheswold Park Hospital¬Cheswold Lane¬¬¬Doncaster¬South Yorkshire¬DN5 8AR¬53.526947021484375¬-1.1506698131561279
+60208¬NRP¬Trust¬Independent¬Visible¬False¬Beacon Minor Surgery¬Bowland Road Medial Surgery¬52 Bowland Road¬Baguley¬Manchester¬Greater Manchester¬M23 1JX¬53.392993927001953¬-2.2856547832489014
+60212¬NRF¬Trust¬Independent¬Visible¬False¬South Of England Cochlear Implant Centre¬University Of Southampton¬University Road¬¬Southampton¬Hampshire¬SO17 1BJ¬50.933792114257813¬-1.3965581655502319
+60224¬NRJ¬Trust¬Independent¬Visible¬False¬Dr A Chambers' Medical Practice¬62 Wimpole Street¬¬¬London¬Greater London¬W1G 8AJ¬51.517814636230469¬-0.14939318597316742
+60231¬NRY¬Trust¬Independent¬Visible¬False¬Hunters Moor Neurorehabilitation Ltd¬Tavistock House¬Tavistock Square¬¬London¬Greater London¬WC1H 9LG¬51.525604248046875¬-0.13033658266067505
+60239¬NQG¬Trust¬Independent¬Visible¬True¬Burrswood Hospital¬Burrswood¬Groombridge¬¬Tunbridge Wells¬Kent¬TN3 9PY¬51.118431091308594¬0.17039543390274048
+60248¬NQR¬Trust¬Independent¬Visible¬False¬Primecare Primary Care¬Unit 4 B1¬50 Summer Hill Road¬¬Birmingham¬West Midlands¬B1 3RB¬52.483596801757813¬-1.9174801111221313
+60265¬NTW¬Trust¬Independent¬Visible¬False¬Alexander House¬15 Princes Road¬Wimbledon¬¬London¬Greater London¬SW19 8RQ¬51.420597076416016¬-0.20078597962856293
+60266¬NUC¬Trust¬Independent¬Visible¬False¬Essex Ultrasound And Medical Services Ltd¬Oaklands Surgery¬Central Canvey Primary Care Centre¬Long Road¬Canvey Island¬Essex¬SS8 0JA¬51.519130706787109¬0.58868998289108276
+60321¬NWG¬Trust¬Independent¬Visible¬False¬Wilcare Health Ltd¬Fox Talbot House¬Greenways Business Park¬Bellinger Close¬Chippenham¬Wiltshire¬SN15 1BN¬51.473003387451172¬-2.1237568855285645
+60546¬NTL¬Trust¬Independent¬Visible¬False¬York Cataract Company Ltd¬Tower Court Health Centre¬Oakdale Road¬¬York¬North Yorkshire¬YO30 4RZ¬53.984981536865234¬-1.1002054214477539
+62171¬NVM¬Trust¬Independent¬Visible¬False¬Epsomedical Group¬168 Portsmouth Road¬¬¬Cobham¬Surrey¬KT11 1HS¬51.334587097167969¬-0.4094405472278595
+62179¬NVR¬Trust¬Independent¬Visible¬False¬Alpha Hospitals¬1 Vincent Square¬¬¬London¬Greater London¬SW1P 2PN¬51.493274688720703¬-0.133100226521492
+62186¬NYE¬Trust¬Independent¬Visible¬False¬Mildmay Uk¬Austin Street¬¬¬London¬Greater London¬E2 7NB¬51.526538848876953¬-7.6957933604717255E-2
+62360¬NYP¬Trust¬Independent¬Visible¬False¬Coastal Health Care Ltd¬The Bank¬155 Victoria Road East¬¬Thornton-Cleveleys¬Lancashire¬FY5 5HH¬53.871757507324219¬-3.0098075866699219
+62365¬NYR¬Trust¬Independent¬Visible¬False¬Global Diagnostics¬Norwich Colney Hall¬Watton Road¬¬Norwich¬Norfolk¬NR4 7TY¬52.625541687011719¬1.2017813920974731
+62377¬NYV¬Trust¬Independent¬Visible¬False¬Air Products Healthcare¬2 Millennium Gate¬Westmere Drive¬¬Crewe¬Cheshire¬CW1 6AP¬53.090557098388672¬-2.4240045547485352
+62379¬NYW¬Trust¬Independent¬Visible¬False¬Aspen Healthcare Limited¬3Rd Floor¬Centurion House¬37 Jewry Street¬London¬Greater London¬EC3N 2ER¬51.5130615234375¬-7.7525675296783447E-2
+62403¬NW7¬Trust¬Independent¬Visible¬True¬General Medical Clinics Ltd (Genmed)¬Liverpool Street Walk-In Centre¬4-5 Exchange Arcade¬¬London¬Greater London¬EC2M 3WA¬51.519397735595703¬-8.0141618847846985E-2
+62413¬NW1¬Trust¬Independent¬Visible¬False¬The Practice Plc¬Missenden Abbey¬High Street¬¬Great Missenden¬Buckinghamshire¬HP16 0BD¬51.699687957763672¬-0.70344746112823486
+62419¬NW4¬Trust¬Independent¬Visible¬False¬Verulam Gynaecology Cats¬Colney Medical Centre¬45-47 Kings Road¬London Colney¬St. Albans¬Hertfordshire¬AL2 1ES¬51.724262237548828¬-0.30313891172409058
+62446¬NX4¬Trust¬Independent¬Visible¬False¬Specialist Health Services Limited¬Skimped Hill Health Centre¬Market Square¬¬Bracknell¬Berkshire¬RG12 1LH¬51.416984558105469¬-0.75316518545150757
+62449¬NX5¬Trust¬Independent¬Visible¬False¬Anglia Community Eye Service Ltd¬North Cambridgeshire Hospital¬The Park¬¬Wisbech¬Cambridgeshire¬PE13 3AB¬52.664352416992188¬0.16338147222995758
+62462¬NXC¬Trust¬Independent¬Visible¬False¬Assura Wandle Llp¬Marshall House¬124 Middleton Road¬¬Morden¬Surrey¬SM4 6RW¬51.387996673583984¬-0.18625508248806
+62475¬NXK¬Trust¬Independent¬Visible¬False¬Well-One Clinic¬Jacobs Well Yard¬Swinemoor Lane¬¬Beverley¬North Humberside¬HU17 0JX¬53.844799041748047¬-0.41010156273841858
+62611¬NY4¬Trust¬Independent¬Visible¬False¬Assura North Lancs Llp¬Unit 8, Ground Floor¬Calder Court, Shorebury Point¬Amy Johnson Way¬Blackpool¬Lancashire¬FY4 2RH¬53.774520874023438¬-3.0287151336669922
+62622¬NX0¬Trust¬Independent¬Visible¬False¬Chime Social Enterprise¬Audiology Department¬Royal Devon & Exeter Hospital¬Barrack Road¬Exeter¬Devon¬EX2 5DW¬50.716083526611328¬-3.5070712566375732
+66976¬NQT¬Trust¬Independent¬Visible¬True¬Virgin Care Ltd¬6400 Daresbury Park¬Daresbury¬¬Warrington¬Cheshire¬WA4 4GE¬53.331382751464844¬-2.6426177024841309
+68358¬NFU¬Trust¬Independent¬Visible¬False¬Chiro Health Limited¬Chiropractic And Back Pain Clinic¬Manor Street¬¬Braintree¬Essex¬CM7 3HP¬51.877788543701172¬0.55548644065856934
+68360¬NFV¬Trust¬Independent¬Visible¬False¬Colchester Physiotherapy Hq¬97 Crouch Street¬¬¬Colchester¬Essex¬CO3 3HA¬51.887161254882813¬0.88883525133132935
+68362¬NFW¬Trust¬Independent¬Visible¬False¬The Ashgrove Clinic¬13 Lancaster Street¬Higham Ferrers¬¬Rushden¬Northamptonshire¬NN10 8HY¬52.310714721679688¬-0.59178996086120605
+68364¬NFX¬Trust¬Independent¬Visible¬False¬3 Spires Msk Service¬The Three Spires Medical Practice¬Truro Health Park¬Infirmary Hill¬Truro¬Cornwall¬TR1 2JA¬50.25933837890625¬-5.0570311546325684
+68368¬NGA¬Trust¬Independent¬Visible¬False¬The Physiotherapy Practice Ltd¬58 High Street¬Great Baddow¬¬Chelmsford¬Essex¬CM2 7HH¬51.715309143066406¬0.49998486042022705
+68490¬NGL¬Trust¬Independent¬Visible¬False¬Echogenicity Limited¬Trannack House¬Bal Road¬Lowertown¬Helston¬Cornwall¬TR13 0DA¬50.119438171386719¬-5.2719674110412598
+68507¬NGP¬Trust¬Independent¬Visible¬False¬Excell Ultrasound Ltd¬Unit 9, Swan Court¬Forder Way¬Cygnet Park, Hampton¬Peterborough¬Cambridgeshire¬PE7 8GX¬52.543632507324219¬-0.25844275951385498
+68548¬NXF¬Trust¬Independent¬Visible¬False¬The Ellenor Lions Hospices¬Coldharbour Road¬Northfleet¬¬Gravesend¬Kent¬DA11 7HQ¬51.420646667480469¬0.35441145300865173
+68712¬NAD¬Trust¬Independent¬Visible¬False¬Boc Ltd¬The Priestley Centre¬Priestley Road¬Surrey Research Park¬Guildford¬Surrey¬GU2 7XY¬51.23828125¬-0.61475080251693726
+68723¬NAE¬Trust¬Independent¬Visible¬False¬United Health Uk¬3Rd Floor¬3 Sheldon Square¬¬London¬Greater London¬W2 6HY¬51.519207000732422¬-0.18104718625545502
+68726¬NAF¬Trust¬Independent¬Visible¬False¬Counselling Team Ltd¬First Floor Offices¬6-8 Bank Street¬¬Hythe¬Kent¬CT21 5AN¬51.070964813232422¬1.0818202495574951
+69077¬NEP¬Trust¬Independent¬Visible¬False¬Diagnostic Health Systems Ltd¬Regus¬Fort Dunlop¬Fort Parkway¬Birmingham¬West Midlands¬B24 9FE¬52.509544372558594¬-1.8113468885421753
+69079¬NEQ¬Trust¬Independent¬Visible¬False¬Wrs Pms Plus Limited Hq¬White Rose Surgery¬Exchange Street¬South Elmsall¬Pontefract¬West Yorkshire¬WF9 2RD¬53.595294952392578¬-1.2943506240844727
+69084¬NES¬Trust¬Independent¬Visible¬False¬Lighthouse Healthcare Limited¬2Nd Floor, Bezant House¬Bradgate Park View¬Chellaston¬Derby¬Derbyshire¬DE73 5UH¬52.861667633056641¬-1.4399845600128174
+69539¬NDQ¬Trust¬Independent¬Visible¬False¬Castlebeck Care Teesdale Ltd¬Chesnut Street¬¬¬Darlington¬County Durham¬DL1 1QL¬54.529453277587891¬-1.551844596862793
+69541¬NDR¬Trust¬Independent¬Visible¬False¬Virgin Care Provider Services Ltd¬The Priory¬High Street¬¬Ware¬Hertfordshire¬SG12 9AL¬51.80999755859375¬-3.4451678395271301E-2
+69709¬NCG¬Trust¬Independent¬Visible¬False¬Longview Surgical Services Llp¬Fylde House Skyways¬Commercial Campus¬Amy Johnson Way¬Blackpool¬Lancashire¬FY4 3RS¬53.777244567871094¬-3.0257465839385986
+69715¬NCH¬Trust¬Independent¬Visible¬False¬Talkplus¬Aldershot Centre For Health¬Hospital Hill¬¬Aldershot¬Hampshire¬GU11 1AY¬51.253463745117188¬-0.76619040966033936
+69717¬NCI¬Trust¬Independent¬Visible¬False¬Partners4health¬Acorn Suite¬1829 Building¬The Countess Of Chester Health Park¬Chester¬Cheshire¬CH2 1HJ¬53.211063385009766¬-2.8998637199401855
+69719¬NCJ¬Trust¬Independent¬Visible¬False¬Interhealth Canada Uk¬Lower Ground Floor¬19 Courtfield Gardens¬¬London¬Greater London¬SW5 0PD¬51.492382049560547¬-0.19075842201709747
+69723¬NCK¬Trust¬Independent¬Visible¬False¬E-Logica Ltd¬Stable House¬Bankhall¬Chapel-En-Le-Frith¬High Peak¬Derbyshire¬SK23 9UB¬53.307025909423828¬-1.9264110326766968
+70090¬NYN¬Trust¬Independent¬Visible¬True¬Specsavers Hearcare Group Ltd¬Cirrus House¬10 Experian Way¬¬Nottingham¬Nottinghamshire¬NG2 1EP¬52.940971374511719¬-1.1666501760482788
+70511¬NHA¬Trust¬Independent¬Visible¬False¬Insidevue Limited¬Farnham Centre For Health¬Hale Road¬¬Farnham¬Surrey¬GU9 9QS¬51.219497680664062¬-0.78571337461471558
+70704¬NAR¬Trust¬Independent¬Visible¬False¬Jayati Tarafder (Aqp)¬Hull Royal Infirmary¬Anlaby Road¬¬Hull¬North Humberside¬HU3 2JZ¬53.744335174560547¬-0.35930538177490234
+70706¬NAS¬Trust¬Independent¬Visible¬False¬Cheshire Primary Care Provider Cic¬Princeway Health Centre¬Princeway¬¬Frodsham¬Cheshire¬WA6 6RX¬53.292243957519531¬-2.7275424003601074
+70709¬NAT¬Trust¬Independent¬Visible¬False¬Mr Steve Maguiness (Aqp)¬The Old Barn¬37A West End¬Walkington¬Beverley¬North Humberside¬HU17 8SX¬53.819782257080078¬-0.49156278371810913
+70712¬NAU¬Trust¬Independent¬Visible¬True¬Wisbech Osteopathic Clinic¬Octavia View¬10A - 14 South Brink¬¬Wisbech¬Cambridgeshire¬PE13 1JQ¬52.663616180419922¬0.1544719934463501
+70716¬NAV¬Trust¬Independent¬Visible¬False¬Mr Simon Tyrell (Aqp)¬13 Sloe Lane¬¬¬Beverley¬North Humberside¬HU17 8ND¬53.834377288818359¬-0.43785035610198975
+71493¬NBD¬Trust¬Independent¬Visible¬False¬Total Health Care Clinics Ltd¬34 High Street¬¬¬Spalding¬Lincolnshire¬PE11 1TX¬52.789180755615234¬-0.14632393419742584
+71495¬NBE¬Trust¬Independent¬Visible¬False¬Aecc Southampton¬305 Winchester Road¬¬¬Southampton¬Hampshire¬SO16 6TX¬50.932121276855469¬-1.4221940040588379
+71497¬NBF¬Trust¬Independent¬Visible¬False¬Louth And Districts Medical Services¬Office 7, Enterprise Centre¬Lincoln Way¬Fairfield Industrial Estate¬Louth¬Lincolnshire¬LN11 0LS¬53.383060455322266¬-1.0861676186323166E-2
+71499¬NBG¬Trust¬Independent¬Visible¬False¬Mediscan Diagnostics Services Limited¬Tameside Business Park¬B2-36¬Windmill Lane, Denton¬Manchester¬Greater Manchester¬M34 3QS¬53.4534912109375¬-2.1279449462890625
+71501¬NBH¬Trust¬Independent¬Visible¬False¬Prioritylinks Limited¬Suite 29 - 30¬Batley Business Park¬Technology Drive¬Batley¬West Yorkshire¬WF17 6ER¬53.70733642578125¬-1.6227335929870605
+71507¬NBI¬Trust¬Independent¬Visible¬False¬Lakeside Medical Diagnostics¬Purfleet Care Centre¬Tank Hill Road¬¬Purfleet¬Essex¬RM19 1SX¬51.489551544189453¬0.2340734452009201
+72686¬NYT¬Trust¬Independent¬Visible¬False¬Assura East Riding Llp¬Melton Court¬Gibson Lane¬Melton¬North Ferriby¬North Humberside¬HU14 3HH¬53.72052001953125¬-0.53300559520721436
+73415¬NEC¬Trust¬Independent¬Visible¬False¬Allied Health Professionals Suffolk Cic¬The Lodge¬Hartismere Hospital¬Castleton Way¬Eye¬Suffolk¬IP23 7BH¬52.323249816894531¬1.1387985944747925
+73458¬NPA¬Trust¬Independent¬Visible¬False¬Ansel Clinic¬Clifton Lane¬Clifton¬¬Nottingham¬Nottinghamshire¬NG11 8NB¬52.9078369140625¬-1.1851290464401245
+73460¬NPC¬Trust¬Independent¬Visible¬False¬Norfolk Surgical Diagnostic Centre¬41 Goodwins Road¬¬¬King's Lynn¬Norfolk¬PE30 5QX¬52.746921539306641¬0.40454298257827759
+74502¬NXQ¬Trust¬Independent¬Visible¬False¬Modus Care¬Kenton¬¬¬Exeter¬Devon¬EX6 8JB¬50.639225006103516¬-3.4692552089691162
+74510¬NXV¬Trust¬Independent¬Visible¬True¬Physiological Measurements Ltd¬The Old Malt House¬Willow Street¬¬Oswestry¬Shropshire¬SY11 1AJ¬52.860950469970703¬-3.0604438781738281
+74514¬NXX¬Trust¬Independent¬Visible¬True¬Scrivens Ltd¬Scrivens House¬60 Islington Row Middleway¬Edgbaston¬Birmingham¬West Midlands¬B15 1PH¬52.47100830078125¬-1.9145592451095581
+74652¬NCO¬Trust¬Independent¬Visible¬False¬Hacs Counselling Service¬11 Burns Green¬Benington¬¬Stevenage¬Hertfordshire¬SG2 7DA¬51.886646270751953¬-0.10231316089630127
+74657¬NCP¬Trust¬Independent¬Visible¬False¬Premier Health & Sport Therapy Ltd¬6-9 Timber Street¬¬¬London¬Greater London¬EC1Y 0TQ¬51.523273468017578¬-9.7276948392391205E-2
+74883¬NLF¬Trust¬Independent¬Visible¬False¬Pennine Musculoskeletal Partnership (Icats)¬Hopwood House¬Lees Road¬¬Oldham¬Lancashire¬OL4 1JN¬53.541606903076172¬-2.0965220928192139
+74892¬NLG¬Trust¬Independent¬Visible¬False¬Croydon Pbc¬83 Brigstock Road¬¬¬Thornton Heath¬Surrey¬CR7 7JH¬51.396587371826172¬-0.10397609323263168
+74973¬NM5¬Trust¬Independent¬Visible¬False¬Daughters Of The Cross Of Liege¬29 Tite Street¬¬¬London¬Greater London¬SW3 4JX¬51.485641479492187¬-0.16221863031387329
+74980¬NM8¬Trust¬Independent¬Visible¬False¬Surrey & Sussex Consultant Partnership Limited¬97 Church Street¬¬¬Brighton¬East Sussex¬BN1 1UJ¬50.824329376220703¬-0.14145177602767944
+75017¬NKX¬Trust¬Independent¬Visible¬False¬H S Physiotherapy Ltd¬5 Resolution Close¬¬¬Boston¬Lincolnshire¬PE21 7TT¬52.974822998046875¬-6.0939911752939224E-2
+75022¬NL0¬Trust¬Independent¬Visible¬True¬John Munroe Hospital¬Horton Road¬Rudyard¬¬Leek¬Staffordshire¬ST13 8RU¬53.124542236328125¬-2.0851223468780518
+75028¬NL2¬Trust¬Independent¬Visible¬False¬Sussex Health Care Audiology Ltd¬Tylden House¬Dorking Road¬Warnham¬Horsham¬West Sussex¬RH12 3RZ¬51.102455139160156¬-0.33600446581840515
+75411¬NKM¬Trust¬Independent¬Visible¬False¬Mental Health Matters¬Avalon House¬St. Catherines Court¬Sunderland Enterprise Park¬Sunderland¬Tyne And Wear¬SR5 3XJ¬54.916271209716797¬-1.4305596351623535
+75415¬NKN¬Trust¬Independent¬Visible¬True¬Agilaflex Healthcare Ltd¬53 Parchment Street¬¬¬Winchester¬Hampshire¬SO23 8BA¬51.064620971679688¬-1.3135159015655518
+75421¬NKR¬Trust¬Independent¬Visible¬True¬South Devon Osteopaths Ltd¬Dartmouth Medical Practice¬35 Victoria Road¬¬Dartmouth¬Devon¬TQ6 9RT¬50.350860595703125¬-3.5812201499938965
+75785¬NR8¬Trust¬Independent¬Visible¬False¬Harvey House Social Enterprise Ltd¬Ashton Road¬¬¬Lancaster¬Lancashire¬LA1 5AZ¬54.027881622314453¬-2.8074965476989746
+75787¬NR9¬Trust¬Independent¬Visible¬False¬John Taylor Hospice Community Interest Company¬76 Grange Road¬Erdington¬¬Birmingham¬West Midlands¬B24 0DF¬52.526645660400391¬-1.8245395421981812
+75791¬NRC¬Trust¬Independent¬Visible¬False¬Riverdale¬93 Riverdale Road¬Ranmoor¬¬Sheffield¬South Yorkshire¬S10 3FE¬53.369895935058594¬-1.5190116167068481
+75825¬NVX¬Trust¬Independent¬Visible¬False¬Hearbase Ltd¬140 Sandgate Road¬¬¬Folkestone¬Kent¬CT20 2TE¬51.076679229736328¬1.1707286834716797
+75834¬NVY¬Trust¬Independent¬Visible¬False¬Assura Wyre Forest Llp¬Doctors Surgery¬46 New Road¬¬Bromsgrove¬Worcestershire¬B60 2JS¬52.329879760742188¬-2.0571703910827637
+75838¬NW0¬Trust¬Independent¬Visible¬True¬Gtd Healthcare¬The Forum¬2 Tameside Business Park¬Windmill Lane, Denton¬Manchester¬Greater Manchester¬M34 3QS¬53.4534912109375¬-2.1279449462890625
+76058¬NEH¬Trust¬Independent¬Visible¬True¬Haverstock Healthcare¬Highstone House¬165 High Street¬¬Barnet¬Hertfordshire¬EN5 5SU¬51.657108306884766¬-0.20155465602874756
+76063¬NEI¬Trust¬Independent¬Visible¬False¬Bath & North East Somerset Emergency Medical Service¬Riverside Health Centre¬James Street West¬¬Bath¬Avon¬BA1 2BT¬51.381675720214844¬-2.3677833080291748
+76067¬NEJ¬Trust¬Independent¬Visible¬False¬Hand To Elbow Clinic¬29A James Street West¬¬¬Bath¬Avon¬BA1 2BT¬51.381675720214844¬-2.3677833080291748
+76069¬NEK¬Trust¬Independent¬Visible¬False¬The Point Osteopathic Clinic¬1 De Grey Square¬De Grey Road¬¬Colchester¬Essex¬CO4 5YQ¬51.924263000488281¬0.91594654321670532
+76153¬NHM¬Trust¬Independent¬Visible¬True¬Suffolk Community Healthcare¬86 Sandy Hill Lane¬¬¬Ipswich¬Suffolk¬IP3 0NA¬52.036617279052734¬1.1624171733856201
+76157¬NHP¬Trust¬Independent¬Visible¬False¬Bexleyheath Chiropractic Clinic Ltd¬302A Broadway¬¬¬Bexleyheath¬Kent¬DA6 8AH¬51.458156585693359¬0.13321223855018616
+76160¬NHQ¬Trust¬Independent¬Visible¬False¬Freedom Medical Care¬14 King Street¬¬¬Leeds¬West Yorkshire¬LS1 2HL¬53.796966552734375¬-1.55057692527771
+76181¬NDC¬Trust¬Independent¬Visible¬False¬Insight Healthcare Ltd¬Buttress House¬36 Brenkley Way¬Seaton Burn¬Newcastle Upon Tyne¬Tyne And Wear¬NE13 6DS¬55.059925079345703¬-1.6304824352264404
+76195¬NDE¬Trust¬Independent¬Visible¬False¬One To One (North West) Limited¬7 Westlands Road¬¬¬Middlewich¬Cheshire¬CW10 9HN¬53.191127777099609¬-2.4534332752227783
+76383¬NNK¬Trust¬Independent¬Visible¬False¬Chiltern Vale Health (2012) Llp¬Unit 2 The Merlin Centre¬Lancaster Road, Cressex Busine¬¬High Wycombe¬Buckinghamshire¬HP12 3QL¬51.620399475097656¬-0.77215534448623657
+76385¬NNL¬Trust¬Independent¬Visible¬False¬Leodis Care Limited¬4210 Park Approach¬¬¬Leeds¬West Yorkshire¬LS15 8GB¬53.798248291015625¬-1.4291068315505981
+77901¬NFK¬Trust¬Independent¬Visible¬False¬Maplyn Care Services (Mcs)¬Unit 25, Caxton House¬Northampton Science Park¬Kings Park Road¬Northampton¬Northamptonshire¬NN3 6LG¬52.276924133300781¬-0.87868452072143555
+78068¬NWP¬Trust¬Independent¬Visible¬False¬Blemish Clinic¬Durnford Medical Centre¬113 Long Street¬Middleton¬Manchester¬Greater Manchester¬M24 6DL¬53.553169250488281¬-2.1976785659790039
+78070¬NWQ¬Trust¬Independent¬Visible¬False¬The Chaseley Trust¬South Cliff¬¬¬Eastbourne¬East Sussex¬BN20 7JH¬50.756679534912109¬0.2755533754825592
+78082¬NWV¬Trust¬Independent¬Visible¬False¬Gp Care Uk Limited¬Christchurch Family Medical Centre¬North Street, Downend¬¬Bristol¬Avon¬BS16 5SG¬51.484565734863281¬-2.5054240226745605
+78122¬NQW¬Trust¬Independent¬Visible¬False¬Devon Doctors Ltd¬Unit 8 Manaton Court¬Manaton Close¬Matford Business Park, Marsh Barton¬Exeter¬Devon¬EX2 8PF¬50.696949005126953¬-3.5262813568115234
+78124¬NQX¬Trust¬Independent¬Visible¬True¬Tollgate Clinic Ltd¬5 Ireton Road¬¬¬Colchester¬Essex¬CO3 3AT¬51.882778167724609¬0.88419431447982788
+78128¬NR0¬Trust¬Independent¬Visible¬False¬Raphael Healthcare Ltd¬Briar Hey¬Mill Lane¬Rainhill¬Prescot¬Merseyside¬L35 6NE¬53.406200408935547¬-2.7595705986022949
+78134¬NR2¬Trust¬Independent¬Visible¬False¬Harmoni For Health¬Suite 5 Stowey House¬Bridport Road¬Poundbury¬Dorchester¬Dorset¬DT1 3SB¬50.712314605712891¬-2.4630770683288574
+78160¬NBP¬Trust¬Independent¬Visible¬False¬Brisdoc Healthcare Services Ltd¬Unit 21¬Osprey Court¬Hawkfield Business Park¬Bristol¬Avon¬BS14 0BB¬51.411319732666016¬-2.593761682510376
+78162¬NBQ¬Trust¬Independent¬Visible¬False¬Cedar Park Healthcare Ltd¬Cedar Park House¬Boundary Road¬South Hykeham¬Lincoln¬Lincolnshire¬LN6 9NQ¬53.176776885986328¬-0.61745846271514893
+78164¬NBR¬Trust¬Independent¬Visible¬False¬South East Fertility Clinic Ltd¬Amberley House¬9 Queens Road¬¬Tunbridge Wells¬Kent¬TN4 9LL¬51.140987396240234¬0.26152056455612183
+78166¬NBS¬Trust¬Independent¬Visible¬False¬Lane Physiotherapy Clinic¬Bank Building¬2 Market Hill¬¬Halstead¬Essex¬CO9 2AR¬51.945217132568359¬0.63789910078048706
+78170¬NBT¬Trust¬Independent¬Visible¬False¬Wingate Minor Surgery Service¬79 Bigdale Drive¬¬¬Liverpool¬Merseyside¬L33 6YJ¬53.488105773925781¬-2.8755760192871094
+78172¬NBU¬Trust¬Independent¬Visible¬False¬Surrey Ultrasound Services¬Shadbolt Park House¬Salisbury Road¬¬Worcester Park¬Surrey¬KT4 7BX¬51.376419067382813¬-0.25280949473381042
+78174¬NBV¬Trust¬Independent¬Visible¬False¬David Cook Physiotherapy Ltd¬28A The Hundred¬¬¬Romsey¬Hampshire¬SO51 8BW¬50.988227844238281¬-1.4984334707260132
+78268¬NEY¬Trust¬Independent¬Visible¬False¬Pioneer Healthcare Limited¬Claremont Hospital¬401 Sandygate Road¬¬Sheffield¬South Yorkshire¬S10 5UB¬53.375354766845703¬-1.5354844331741333
+78282¬NAK¬Trust¬Independent¬Visible¬False¬Serenity-Sequel Healthcare Ltd¬South Axholme Practice¬The Surgery, High Street¬Epworth¬Doncaster¬South Yorkshire¬DN9 1EP¬53.525074005126953¬-0.82336902618408203
+78286¬NAL¬Trust¬Independent¬Visible¬False¬Patientfirst Social Enterprise¬E12 Health Centre¬The Centre¬30 Church Road¬London¬Greater London¬E12 6AQ¬51.546833038330078¬5.2261378616094589E-2
+78402¬NHV¬Trust¬Independent¬Visible¬False¬Community Links (Northern) Ltd¬Regents Court¬39A Harrogate Road¬¬Leeds¬West Yorkshire¬LS7 3PD¬53.827480316162109¬-1.53809654712677
+78485¬NN8¬Trust¬Independent¬Visible¬False¬East Kent Medical Services Ltd¬Ramsgate Road¬¬¬Margate¬Kent¬CT9 4BG¬51.377307891845703¬1.3883806467056274
+78492¬NJT¬Trust¬Independent¬Visible¬False¬The Forge Clinic¬37 Red Lion Street¬¬¬Richmond¬Surrey¬TW9 1RJ¬51.459030151367187¬-0.30579611659049988
+78498¬NJX¬Trust¬Independent¬Visible¬False¬Bristol Plastic Surgery Ltd¬58 Queen Square¬¬¬Bristol¬Avon¬BS1 4LF¬51.449966430664063¬-2.5971412658691406
+78500¬NJY¬Trust¬Independent¬Visible¬False¬Firth Chiropractors Ltd¬Alba Chiropractice Clinic¬152 Chester Road¬¬Warrington¬Cheshire¬WA4 6AQ¬53.379268646240234¬-2.5952341556549072
+78504¬NKC¬Trust¬Independent¬Visible¬False¬Steven Orton Ltd¬The New Surgery¬Brookley Road¬¬Brockenhurst¬Hampshire¬SO42 7RA¬50.818584442138672¬-1.5783276557922363
+78578¬NTX¬Trust¬Independent¬Visible¬True¬The One Health Group Ltd¬131 Psalter Lane¬¬¬Sheffield¬South Yorkshire¬S11 8UX¬53.364429473876953¬-1.5010402202606201
+78732¬NLM¬Trust¬Independent¬Visible¬False¬Teeside Urgent Care¬Northumberland House¬Gosforth Park Avenue¬¬Newcastle Upon Tyne¬Tyne And Wear¬NE12 8EG¬55.017574310302734¬-1.5949015617370605
+78741¬NLN¬Trust¬Independent¬Visible¬False¬Jeesal Akman Care Corporation Ltd¬Jeesal Cawston Park¬Aylsham Road¬Cawston¬Norwich¬Norfolk¬NR10 4JD¬52.774734497070312¬1.205312967300415
+78743¬NLP¬Trust¬Independent¬Visible¬False¬The Mole Clinic Ltd¬9 Argyll Street¬¬¬London¬Greater London¬W1F 7TG¬51.514083862304688¬-0.14089703559875488
+78745¬NLQ¬Trust¬Independent¬Visible¬False¬Oxford Fertility Unit (Ofu)¬Institute Of Reproductive Sciences¬Oxford Business Park North¬¬Oxford¬Oxfordshire¬OX4 2HW¬51.732933044433594¬-1.2064234018325806
+78808¬NV6¬Trust¬Independent¬Visible¬False¬Pds Medical¬155 Victoria Road East¬¬¬Thornton-Cleveleys¬Lancashire¬FY5 5HH¬53.871757507324219¬-3.0098075866699219
+78981¬NVJ¬Trust¬Independent¬Visible¬False¬Jedheath Ltd¬54 Caunce Street¬¬¬Blackpool¬Lancashire¬FY1 3LJ¬53.819309234619141¬-3.0465211868286133
+79001¬NN5¬Trust¬Independent¬Visible¬False¬Manchester Surgical Services Ltd¬Trafford General Hospital¬Moorside Road, Urmston¬¬Manchester¬Greater Manchester¬M41 5SL¬53.453880310058594¬-2.3718991279602051
+245415¬NGB¬Trust¬Independent¬Visible¬False¬Colchester Osteopathic Centre¬Creffield Medical Centre¬15 Cavalry Road¬¬Colchester¬Essex¬CO2 7GH¬51.881664276123047¬0.89284241199493408
+245423¬NGI¬Trust¬Independent¬Visible¬False¬Mersea Road Clinic¬312-314 Mersea Road¬¬¬Colchester¬Essex¬CO2 8QY¬51.865108489990234¬0.90775907039642334
+245433¬NGO¬Trust¬Independent¬Visible¬False¬Tim Humphries Physiotherapy Ltd¬12 Yorick Road¬West Mersea¬¬Colchester¬Essex¬CO5 8HT¬51.775062561035156¬0.9121125340461731
+245444¬NGS¬Trust¬Independent¬Visible¬False¬Bodyworks Chiropractic Clinic Ltd¬Unit 17, Wakes Hall Business Centre¬Colchester Road¬Wakes Colne¬Colchester¬Essex¬CO6 2DY¬51.925762176513672¬0.74148809909820557
+245501¬NHI¬Trust¬Independent¬Visible¬False¬Clacton Chiropractic Clinic (Physmed Ltd)¬55 Church Road¬¬¬Clacton-On-Sea¬Essex¬CO15 6BQ¬51.792827606201172¬1.1641775369644165
+245689¬NHU¬Trust¬Independent¬Visible¬False¬Ultrasound Scanning Services Ltd¬12 Highcroft¬Kingsbury¬¬London¬Greater London¬NW9 0SE¬51.585975646972656¬-0.25488701462745667
+245817¬NI3¬Trust¬Independent¬Visible¬False¬Addaction¬67-69 Cowcross Street¬¬¬London¬Greater London¬EC1M 6PU¬51.519798278808594¬-0.10462899506092072
+246176¬NI5¬Trust¬Independent¬Visible¬False¬City Way Osteopathic Clinic¬Fort Pitt House¬New Road¬¬Rochester¬Kent¬ME1 1DX¬51.382301330566406¬0.51197201013565063
+246178¬NI6¬Trust¬Independent¬Visible¬False¬Inform¬Daisy Business Park¬Sylvan Grove¬¬London¬Greater London¬SE15 1PD¬51.481277465820312¬-5.8699715882539749E-2
+246257¬NI7¬Trust¬Independent¬Visible¬False¬Queens Physiotherapy And Sports Injury Clinic¬The Old School Studios¬Suites 4 And 5¬40 Lynchford Road¬Farnborough¬Hampshire¬GU14 6EF¬51.273971557617188¬-0.74987155199050903
+352569¬NIE¬Trust¬Independent¬Visible¬False¬Ward Anne Kathleen Dr (Dermatology)¬Rowley Hall Hospital¬Rowley Park¬¬Stafford¬Staffordshire¬ST17 9AQ¬52.794601440429688¬-2.1274821758270264
+352571¬NIF¬Trust¬Independent¬Visible¬False¬Community Glaucoma Partnership¬43 Ashley Avenue¬¬¬Ilford¬Essex¬IG6 2JF¬51.592304229736328¬7.4522808194160461E-2
+352572¬NIB¬Trust¬Independent¬Visible¬False¬Brewood Medical Services Ltd¬Sandy Lane¬Brewood¬¬Stafford¬Staffordshire¬ST19 9ES¬52.675880432128906¬-2.1729841232299805
+352576¬NIC¬Trust¬Independent¬Visible¬False¬Amelanchier Osteopathic & Sports Injury Clinic¬Amelanchier¬Weavering Street¬Weavering¬Maidstone¬Kent¬ME14 5JJ¬51.273448944091797¬0.55477887392044067
+352578¬NID¬Trust¬Independent¬Visible¬False¬The Living Care Group¬Living Care House¬63 Harrogate Road¬Chapel Allerton¬Leeds¬West Yorkshire¬LS7 3PQ¬53.830181121826172¬-1.5395861864089966
+352655¬NIG¬Trust¬Independent¬Visible¬False¬Community Specialist Clinics (Csc)¬1St Floor, Ching Way Medical Centre¬7 Ching Way¬Chingford¬London¬Greater London¬E4 8YD¬51.607524871826172¬-2.5878854095935822E-2
+352855¬NIH¬Trust¬Independent¬Visible¬False¬Genix Healthcare Limited¬2 College Court¬Gildersome, Morley¬¬Leeds¬West Yorkshire¬LS27 7WF¬53.754981994628906¬-1.6253403425216675
+461557¬NIJ¬Trust¬Independent¬Visible¬False¬East 17 Healthcare Limited¬The Firs¬26 Stephenson Road¬Walthamstow¬London¬Greater London¬E17 7JT¬51.579811096191406¬-3.5740029066801071E-2
+461594¬NIK¬Trust¬Independent¬Visible¬False¬Aligie Ltd¬195 Nottingham Road¬¬¬Mansfield¬Nottinghamshire¬NG18 4AA¬53.130847930908203¬-1.1958636045455933
+461596¬NIL¬Trust¬Independent¬Visible¬False¬Physiotherapy2fit Ltd¬19 Bradley Drive¬¬¬Sittingbourne¬Kent¬ME10 1RB¬51.330745697021484¬0.72593319416046143
+462279¬NIR¬Trust¬Independent¬Visible¬False¬James Street Clinic¬61-63 James Street¬¬¬Blackburn¬Lancashire¬BB1 6BE¬53.750102996826172¬-2.4821810722351074
+462284¬NIT¬Trust¬Independent¬Visible¬False¬South Doc Services Limited Hq¬West Heath Medical Centre¬194-196 West Heath Road¬Northfield¬Birmingham¬West Midlands¬B31 3HB¬52.401809692382813¬-1.9631962776184082
+462288¬NIU¬Trust¬Independent¬Visible¬False¬The Sean Barkes Clinic Ltd¬41 Moor Lane¬North Hykeham¬¬Lincoln¬Lincolnshire¬LN6 9AE¬53.1864013671875¬-0.59469974040985107
+462337¬R1J¬Trust¬Health and Care¬Visible¬True¬Gloucestershire Care Services NHS Trust¬Edward Jenner Court¬1010 Pioneer Avenue¬Gloucester Business Pk, Brockworth¬Gloucester¬Gloucestershire¬GL3 4AW¬51.846969604492188¬-2.1770420074462891
+462637¬NJO¬Trust¬Independent¬Visible¬False¬Uclan Dental Clinic¬Harrington Building¬University Of Central Lancashire¬¬Preston¬Lancashire¬PR1 2HE¬53.760673522949219¬-2.7067968845367432
+462767¬NJS¬Trust¬Independent¬Visible¬False¬Central Nottinghamshire Clinical Services Ltd¬Birch House¬Ransom Wood Business Park¬Southwell Road West, Rainworth¬Mansfield¬Nottinghamshire¬NG21 0HJ¬53.129585266113281¬-1.1435775756835937
+463396¬NKO¬Trust¬Independent¬Visible¬False¬Yorkshire Health Solutions Ltd¬Unit 5, Carrwood Park¬Swillington Common Farm¬Selby Road¬Leeds¬West Yorkshire¬LS15 4LG¬53.789211273193359¬-1.4186043739318848
+570433¬NLS¬Trust¬Independent¬Visible¬False¬Trent Pts¬Psychological Therapy Services¬Markeaton House¬3 Slater Avenue¬Derby¬Derbyshire¬DE1 1GT¬52.923938751220703¬-1.4942171573638916
+570755¬NLU¬Trust¬Independent¬Visible¬False¬Sk:N (Lasercare Clinics Ltd)¬34 Harborne Road¬Edgbaston¬¬Birmingham¬West Midlands¬B15 3AA¬52.470115661621094¬-1.9233934879302979
+570895¬NMB¬Trust¬Independent¬Visible¬False¬Changing Faces¬Squire Centre¬33-37 University Street¬¬London¬Greater London¬WC1E 6JN¬51.522998809814453¬-0.13620930910110474
+570897¬NMI¬Trust¬Independent¬Visible¬False¬Sonarcare Limited¬21 Milehouse Road¬¬¬Plymouth¬Devon¬PL3 4AD¬50.384735107421875¬-4.159092903137207
+570981¬NMO¬Trust¬Independent¬Visible¬False¬Freeman Clinics Limited¬Battle Hill Health Centre¬Belmont Close¬Wallsend¬Whitley Bay¬Tyne And Wear¬NE25 9DX¬55.032363891601562¬-1.4680280685424805
+570983¬NMS¬Trust¬Independent¬Visible¬False¬Crime Reduction Initiatives Ltd (Cri)¬Tower Point¬44 North Road¬¬Brighton¬East Sussex¬BN1 1YR¬50.825252532958984¬-0.14283508062362671
+750236¬NMU¬Trust¬Independent¬Visible¬False¬Lakeland Dialysis Ltd¬Unit 7E¬Lakeland Business Park¬Lamplugh Road¬Cockermouth¬Cumbria¬CA13 0QT¬54.655502319335938¬-3.3732700347900391
+750238¬NNB¬Trust¬Independent¬Visible¬True¬Independent Vascular Services Ltd¬Vascular Studies Unit-Wythenshawe Hospital¬Southmoor Road¬¬Wythenshawe¬Lancashire¬M23 9LT¬53.388481140136719¬-2.2946460247039795
+750239¬NNI¬Trust¬Independent¬Visible¬False¬Talking Therapies Ltd¬Chantry Lodge¬Pyecombe Street¬Pyecombe¬Brighton¬East Sussex¬BN45 7EE¬50.901309967041016¬-0.17536585032939911
+750263¬NNO¬Trust¬Independent¬Visible¬True¬Gloucestershire Gp Provider Company Ltd¬Ghac¬Eastgate House¬Eastgate Street¬Gloucester¬Gloucestershire¬GL1 1PX¬51.862140655517578¬-2.2409965991973877
+750265¬NNS¬Trust¬Independent¬Visible¬False¬Sellindge Practice Ltd¬Main Road¬Sellindge¬¬Ashford¬Kent¬TN25 6JX¬51.102787017822266¬0.99964648485183716
+750284¬NNU¬Trust¬Independent¬Visible¬False¬This Is My: Limited¬Leeds Screening Centre¬3 Gemini Park¬Sheepscar Way¬Leeds¬West Yorkshire¬LS7 3JB¬53.810398101806641¬-1.5367656946182251
+750286¬AA0¬Trust¬Independent¬Visible¬False¬Bridgegate Surgical Services¬Bridgegate Surgery¬North Road¬¬Retford¬Nottinghamshire¬DN22 7XF¬53.324916839599609¬-0.95199805498123169
+750299¬NO0¬Trust¬Independent¬Visible¬False¬Healthharmonie Limited¬Unit B, Harborne Court¬67-69 Harborne Road¬Edgbaston¬Birmingham¬West Midlands¬B15 3BU¬52.471012115478516¬-1.9233919382095337
+750364¬NO1¬Trust¬Independent¬Visible¬False¬Bridgegate Surgical Services¬Bridgegate Surgery¬North Road¬¬Retford¬Nottinghamshire¬DN22 7XF¬53.324916839599609¬-0.95199805498123169
+750553¬NO2¬Trust¬Independent¬Visible¬False¬Mental Health Matters¬Avalon House¬St. Catherines Court¬Sunderland Enterprise Park¬Sunderland¬Tyne And Wear¬SR5 3XJ¬54.916271209716797¬-1.4305596351623535
+750943¬NO3¬Trust¬Independent¬Visible¬False¬Woodfield Physiotherapy Ltd¬Woodfield Physiotherapy Centre¬1 Oxford Building, School Lane¬Colmworth¬Bedford¬Bedfordshire¬MK44 2JZ¬52.215564727783203¬-0.39279976487159729
+864407¬NO4¬Trust¬Independent¬Visible¬False¬Herts Mind Network¬139 Leighton Buzzard Road¬¬¬Hemel Hempstead¬Hertfordshire¬HP1 1HN¬51.753604888916016¬-0.47589573264122009
+864409¬NO5¬Trust¬Independent¬Visible¬False¬The Surgery¬Millbrook¬¬¬Torpoint¬Cornwall¬PL10 1DE¬50.347679138183594¬-4.2164483070373535
+864431¬NO6¬Trust¬Independent¬Visible¬False¬Rethink Mental Illness¬15Th Floor¬Albert Embankment¬¬London¬Greater London¬SE1 7TP¬51.487747192382812¬-0.12468370050191879
+864564¬AA6¬Trust¬Independent¬Visible¬False¬Assisted Conception Unit Ltd¬Leytonstone House¬Leytonstone¬¬London¬Greater London¬E11 1GA¬51.570869445800781¬1.4381229877471924E-2
+978672¬AAD¬Trust¬Independent¬Visible¬False¬The Wound Healing Centres UK¬43 Gildredge Road¬¬¬Eastbourne¬East Sussex¬BN21 4RY¬50.7664794921875¬0.28028354048728943
+978734¬AAF¬Trust¬Independent¬Visible¬False¬360 Care Ltd¬Cromwell Primary Care Centre¬Cromwell Road¬¬Grimsby¬South Humberside¬DN31 2BH¬53.567153930664062¬-0.10945270955562592
+979461¬AAL¬Trust¬Independent¬Visible¬False¬Cancer Care¬Slynedales¬Slyne Road¬¬Lancaster¬Lancashire¬LA2 6ST¬54.066555023193359¬-2.8036630153656006
+979496¬AAM¬Trust¬Independent¬Visible¬False¬Personalised 4 Autism¬Suite 403 Kg Business Centre¬Kingsfield Way¬Dallington¬Northampton¬Northamptonshire¬NN5 7QS¬52.251224517822266¬-0.9188845157623291
+979502¬AAN¬Trust¬Independent¬Visible¬False¬Alexin Healthcare Ltd¬36 King Street¬Duffield¬¬Belper¬Derbyshire¬DE56 4EU¬52.9886474609375¬-1.4904826879501343
+979636¬AAP¬Trust¬Independent¬Visible¬False¬Accipiter Limited¬Newtown House¬Newtown Road¬¬Henley-On-Thames¬Oxfordshire¬RG9 1HG¬51.529010772705078¬-0.89570921659469604
+979669¬AAQ¬Trust¬Independent¬Visible¬False¬Gp Primary Choice Ltd¬21 Nunns Road¬¬¬Colchester¬Essex¬CO1 1EJ¬51.891471862792969¬0.89637953042984009
+979671¬AAR¬Trust¬Independent¬Visible¬False¬Lifeline Project Ltd¬101-103 Oldham Street¬¬¬Manchester¬Greater Manchester¬M4 1LW¬53.482990264892578¬-2.2350244522094727
+979683¬AAT¬Trust¬Independent¬Visible¬False¬Hidden Hearing Limited¬Medway Street¬¬¬Maidstone¬Kent¬ME14 1HL¬51.273326873779297¬0.51892662048339844
+979837¬AAV¬Trust¬Independent¬Visible¬False¬Community Health And Eyecare Limited¬132 Highfield Road¬¬¬Blackpool¬Lancashire¬FY4 2HH¬53.786098480224609¬-3.0411410331726074
+979839¬AAW¬Trust¬Independent¬Visible¬False¬Allied Healthcare Group¬Beaconsfield Court¬Beaconsfield Road¬¬Hatfield¬Hertfordshire¬AL10 8HU¬51.766155242919922¬-0.21751324832439423
+979841¬AAX¬Trust¬Independent¬Visible¬False¬Sydenham House Medical Practice¬Mill Court¬¬¬Ashford¬Kent¬TN24 8DN¬51.146286010742188¬0.87948936223983765
+979843¬AAY¬Trust¬Independent¬Visible¬False¬Holbeach And East Elloe Hospital Trust¬Holbeach & East Elloe Hospital¬Boston Road North¬Holbeach¬Spalding¬Lincolnshire¬PE12 8AQ¬52.816444396972656¬1.7499914392828941E-3
+979845¬AC0¬Trust¬Independent¬Visible¬False¬East Lancashire Medical Services Ltd¬St. Ives House¬Accrington Road¬¬Blackburn¬Lancashire¬BB1 2EG¬53.74755859375¬-2.4427261352539062
+1094544¬AC2¬Trust¬Independent¬Visible¬False¬The Herne Bay Opthalmology Clinic¬Beltinge & Reculver Surgery¬269 Reculver Road¬Beltinge¬Herne Bay¬Kent¬CT6 6SR¬51.369049072265625¬1.1693434715270996
+1094546¬AC6¬Trust¬Independent¬Visible¬False¬New Hayesbank Surgery Clinics¬New Hayesbank Surgery¬Cemetery Lane¬Kennington¬Ashford¬Kent¬TN24 9JZ¬51.157096862792969¬0.87873256206512451
+1094561¬AC7¬Trust¬Independent¬Visible¬True¬Cobalt Unit Appeal Fund¬Thirlestaine Road¬¬¬Cheltenham¬Gloucestershire¬GL53 7AS¬51.888439178466797¬-2.0711359977722168
+1094563¬AC8¬Trust¬Independent¬Visible¬False¬North East Community Health Network¬Redcar Primary Care Hospital¬West Dyke Road¬¬Redcar¬Cleveland¬TS10 4NW¬54.600399017333984¬-1.0696645975112915
+1094571¬ACA¬Trust¬Independent¬Visible¬False¬Cumbria Medical Services Limited HQ¬Ann Burrow Health Centre¬South William Street¬¬Workington¬Cumbria¬CA14 2EW¬54.645267486572266¬-3.5511460304260254
+1094577¬AC9¬Trust¬Independent¬Visible¬False¬Cupris Ltd¬Innovation Rca¬The Dyson Building¬20 Howie Street, Battersea¬London¬Greater London¬SW11 4AS¬51.478565216064453¬-0.16970363259315491
+1094692¬ACC¬Trust¬Independent¬Visible¬False¬Ardens Ltd¬Station House¬North Street¬¬Havant¬Hampshire¬PO9 1QU¬50.853569030761719¬-0.98134607076644897
+1094694¬ACD¬Trust¬Independent¬Visible¬False¬Charing Practice Ltd¬1 Surgery Close¬Charing¬¬Ashford¬Kent¬TN27 0AW¬51.208709716796875¬0.79031085968017578
+1094696¬ACE¬Trust¬Independent¬Visible¬False¬Charing Medical Partnership¬1 Surgery Close¬Charing¬¬Ashford¬Kent¬TN27 0AW¬51.208709716796875¬0.79031085968017578
+1094734¬ACF¬Trust¬Independent¬Visible¬False¬Carers Centre Newcastle¬6 Saville Place¬¬¬Newcastle Upon Tyne¬Tyne And Wear¬NE1 8DQ¬54.975391387939453¬-1.6109488010406494
+1094751¬ACG¬Trust¬Independent¬Visible¬False¬New Medical Systems Limited¬South Bank Technopark¬90 London Road¬¬London¬Greater London¬SE1 6LN¬51.496383666992188¬-0.10271898657083511
+1094817¬ACH¬Trust¬Independent¬Visible¬False¬Whitstable Medical Practice¬Estuary View Medical Centre¬Boorman Way¬¬Whitstable¬Kent¬CT5 3SE¬51.340816497802734¬1.0122977495193481
+1094859¬ACJ¬Trust¬Independent¬Visible¬False¬Dependability Ltd¬Bizspace, Imex House¬6 Wadsworth Road¬Perivale¬Greenford¬Middlesex¬UB6 7JJ¬51.535629272460937¬-0.31737229228019714
+1095003¬ACL¬Trust¬Independent¬Visible¬False¬Coastal Clinics¬South Street¬¬¬Gosport¬Hampshire¬PO12 1ES¬50.793540954589844¬-1.118858814239502
+1095065¬ACM¬Trust¬Independent¬Visible¬False¬Eye Care Medical Ltd¬Vision House¬Gunco Lane¬¬Macclesfield¬Cheshire¬SK11 7JL¬53.250358581542969¬-2.1198432445526123
+1095171¬ACN¬Trust¬Independent¬Visible¬False¬Wessex Fertility Ltd¬Stag Gates House¬63/64 The Avenue¬¬Southampton¬Hampshire¬SO17 1XS¬50.918548583984375¬-1.4052908420562744
+1095188¬ACP¬Trust¬Independent¬Visible¬False¬Fortius Clinic¬17 Fitzhardinge Street¬¬¬London¬Greater London¬W1H 6EQ¬51.516086578369141¬-0.15378715097904205
+1095252¬ACQ¬Trust¬Independent¬Visible¬False¬Thompson Opticians Ltd¬6 Clayport Street¬¬¬Alnwick¬Northumberland¬NE66 1JU¬55.412380218505859¬-1.7093349695205688
+1095624¬ACR¬Trust¬Independent¬Visible¬False¬Vision Checks Ltd¬Woodlands¬Skiveralls¬Chalford Hill¬Stroud¬Gloucestershire¬GL6 8QJ¬51.724720001220703¬-2.1562950611114502
+1095661¬ACT¬Trust¬Independent¬Visible¬False¬Atlas Physiotherapy Ltd¬Unit 1-3¬29 Sandgate¬¬Penrith¬Cumbria¬CA11 7TJ¬54.664546966552734¬-2.7518625259399414
+1095764¬ACV¬Trust¬Independent¬Visible¬False¬Kingsnorth Medical Services Ltd¬Ashford Road¬Kingsnorth¬¬Ashford¬Kent¬TN23 3ED¬51.119796752929688¬0.85926258563995361
+1095766¬ACW¬Trust¬Independent¬Visible¬False¬Advance Physiotherapy¬24 Musters Road¬West Bridgford¬¬Nottingham¬Nottinghamshire¬NG2 7PL¬52.935344696044922¬-1.1340253353118896
+1095791¬ACX¬Trust¬Independent¬Visible¬False¬Yorkshire Healthcare Partners Ltd¬Brough Surgery¬4 Centurion Way¬¬Brough¬North Humberside¬HU15 1AY¬53.7281494140625¬-0.56911945343017578
+1095838¬ACY¬Trust¬Independent¬Visible¬False¬Northamptonshire Forensic Medical Services¬Northamptonshire Police¬Kettering Police Station¬London Road¬Kettering¬Northamptonshire¬NN15 7QP¬52.396747589111328¬-0.72573882341384888
+1095842¬AD0¬Trust¬Independent¬Visible¬False¬Blackberry Clinic¬Blackberry Court¬Walnut Tree¬¬Milton Keynes¬Buckinghamshire¬MK7 7PB¬52.021446228027344¬-0.69125086069107056
+1095848¬AD6¬Trust¬Independent¬Visible¬False¬Nl Group Limited¬The Riverside Building¬Livingstone Road¬¬Hessle¬North Humberside¬HU13 0DZ¬53.718238830566406¬-0.42397165298461914
+1095972¬AD7¬Trust¬Independent¬Visible¬False¬Westminster Mind¬Radstock House¬5 Eccleston Street¬¬London¬Greater London¬SW1W 9LX¬51.493526458740234¬-0.14893636107444763
+1096075¬AD8¬Trust¬Independent¬Visible¬False¬Enhanced Optometry Services Ltd.¬15 Market Hill¬Coggeshall¬¬Colchester¬Essex¬CO6 1TS¬51.871288299560547¬0.68587034940719604
+1096117¬AD9¬Trust¬Independent¬Visible¬True¬Greenbrook Healthcare (Hounslow) Limited¬Marston House¬5 Elmdon Lane¬Marston Green¬Birmingham¬West Midlands¬B37 7DL¬52.464488983154297¬-1.7526634931564331
+1169041¬ADA¬Trust¬Independent¬Visible¬True¬Baywater Healthcare Ltd¬2 Millennium Gate¬Westmere Drive¬¬Crewe¬Cheshire¬CW1 6AP¬53.090557098388672¬-2.4240045547485352
+1169044¬ADC¬Trust¬Independent¬Visible¬False¬Healthspace South¬6 Cliveden Office Village¬Lancaster Road¬Cressex Business Park¬High Wycombe¬Buckinghamshire¬HP12 3YZ¬51.618587493896484¬-0.77075982093811035
+1169050¬ADD¬Trust¬Independent¬Visible¬False¬Voyage Care¬Wall Island¬Birmingham Road¬¬Lichfield¬Staffordshire¬WS14 0QP¬52.652519226074219¬-1.835862398147583
+1279637¬ADE¬Trust¬Independent¬Visible¬False¬Thames Valley Ambulance And Paramedic Service¬1 Watling Terrace¬Bletchley¬¬Milton Keynes¬Buckinghamshire¬MK2 2BT¬51.997417449951172¬-0.71380084753036499
+1279762¬ADF¬Trust¬Independent¬Visible¬False¬Northwest Diagnostic & Treatment Services¬Manor House Surgery¬Manor Street¬¬Glossop¬Derbyshire¬SK13 8PS¬53.442760467529297¬-1.9457489252090454
+1279819¬ADG¬Trust¬Independent¬Visible¬False¬Braintree Clinical Services Limited¬Braintree Community Hospital¬Chadwick Drive¬¬Braintree¬Essex¬CM7 2AL¬51.879032135009766¬0.53957360982894897
+1279821¬ADH¬Trust¬Independent¬Visible¬False¬Wsdm Ltd¬67 Oxenturn Road¬Wye¬¬Ashford¬Kent¬TN25 5AY¬51.179023742675781¬0.93733829259872437
+1349244¬ADJ¬Trust¬Independent¬Visible¬False¬Headway Dorset¬22 Albany Park¬Cabot Lane¬¬Poole¬Dorset¬BH17 7BX¬50.742912292480469¬-1.991430401802063
+1349418¬ADK¬Trust¬Independent¬Visible¬False¬Kemp Town Healthcare Ltd¬Suite 3¬Middlesex House¬Rutherford Close¬Stevenage¬Hertfordshire¬SG1 2EF¬51.908275604248047¬-0.22061462700366974
+1349537¬ADL¬Trust¬Independent¬Visible¬False¬Bath Fertility Centre Ltd¬9 Portland Square¬¬¬Bristol¬Avon¬BS2 8ST¬51.459915161132812¬-2.5857563018798828
+1349760¬ADP¬Trust¬Independent¬Visible¬False¬Kent Institute Of Medicine And Surgery¬50 Farringdon Road¬¬¬London¬Greater London¬EC1M 3HE¬51.519821166992188¬-0.10606945306062698
+1349763¬ADM¬Trust¬Independent¬Visible¬False¬Reflexive Solutions Ltd¬The Enterprise Centre¬University Of Hull¬Cottingham Road¬Hull¬North Humberside¬HU6 7RX¬53.769618988037109¬-0.36742380261421204
+1349765¬ADN¬Trust¬Independent¬Visible¬False¬Nottingham West Health Limited¬Church Walk Surgery¬Church Walk¬Eastwood¬Nottingham¬Nottinghamshire¬NG16 3BH¬53.016483306884766¬-1.3068075180053711
+1349811¬ADQ¬Trust¬Independent¬Visible¬False¬Havering Primary Care Ent Service¬Rush Green Surgery¬261 Dagenham Road¬¬Romford¬Essex¬RM7 0XR¬51.559898376464844¬0.1754816472530365
+1349822¬ADR¬Trust¬Independent¬Visible¬False¬Communitas Clinics Ltd¬83 Brigstock Road¬¬¬Thornton Heath¬Surrey¬CR7 7JH¬51.396587371826172¬-0.10397609323263168
+1521800¬ADW¬Trust¬Independent¬Visible¬False¬Beehive Solutions Ltd¬Sir Charles House¬35 Woodford Avenue¬Gants Hill¬Ilford¬Essex¬IG2 6UF¬51.577178955078125¬6.5174445509910583E-2
+1521811¬ADT¬Trust¬Independent¬Visible¬False¬Concordia Health Group Limited¬Unit 10.1.1¬The Leather Market¬Weston Street¬London¬Greater London¬SE1 3ER¬51.499698638916016¬-8.5291951894760132E-2
+1521947¬ADV¬Trust¬Independent¬Visible¬False¬Bromsgrove Physiotherapy Ltd¬Grove Cottage¬Holt Heath¬¬Worcester¬Worcestershire¬WR6 6LZ¬52.2657470703125¬-2.2739524841308594
+1521986¬ADX¬Trust¬Independent¬Visible¬False¬Leeds Counselling¬Leeds Bridge House¬Hunslet Road¬¬Leeds¬West Yorkshire¬LS10 1JN¬53.792438507080078¬-1.5415173768997192
+1521989¬ADY¬Trust¬Independent¬Visible¬False¬Ambulant Physiotherapy Ltd¬301 Plungington Road¬Fulwood¬¬Preston¬Lancashire¬PR2 3PS¬53.775897979736328¬-2.7161571979522705
+1521997¬AE0¬Trust¬Independent¬Visible¬False¬Symbol (UK) Limited¬Newington Manor¬Callaways Lane¬Newington¬Sittingbourne¬Kent¬ME9 7LU¬51.350063323974609¬0.66819345951080322
+1634828¬AE4¬Trust¬Independent¬Visible¬False¬H M Partnership LLP¬27 Bridge Street¬¬¬Hitchin¬Hertfordshire¬SG5 2DF¬51.945106506347656¬-0.27881202101707458
+1634830¬AE5¬Trust¬Independent¬Visible¬False¬Response Physiotherapy Ltd HQ¬34 Millicent Road¬West Bridgford¬¬Nottingham¬Nottinghamshire¬NG2 7PZ¬52.934432983398438¬-1.1325556039810181
+1635227¬AE6¬Trust¬Independent¬Visible¬False¬Ablecare¬Able House¬Duchess Street¬Shaw¬Oldham¬Lancashire¬OL2 7UT¬53.585651397705078¬-2.0936017036437988
+1635229¬AE7¬Trust¬Independent¬Visible¬False¬Havering Community Gynaecology Service¬Berwick Surgery¬17 Berwick Road¬¬Rainham¬Essex¬RM13 9QU¬51.526824951171875¬0.21283051371574402
+1635267¬AE8¬Trust¬Independent¬Visible¬False¬The Sussex Beacon¬10 Bevendean Road¬¬¬Brighton¬East Sussex¬BN2 4DE¬50.838275909423828¬-0.11391204595565796
+1635269¬AE9¬Trust¬Independent¬Visible¬False¬Achor Healthcare Limited¬Red Lion House¬London Road¬Bentley¬Farnham¬Surrey¬GU10 5HY¬51.189830780029297¬-0.87664532661437988
+1708517¬AEA¬Trust¬Independent¬Visible¬False¬Oxford & Bucks Urology Partnership Ltd¬6 Queens Square¬Ascot Business Park¬Lyndhurst Road¬Ascot¬Berkshire¬SL5 9ED¬51.405361175537109¬-0.67728209495544434
