@@ -22,6 +22,7 @@ organisationTypes = [
 
 organisationTypes.each do |organisationType|
 	openingTimes = {}
+	staff = {}
 	if organisationType == 'Dentists'
 		csv = File.expand_path("../../sources/DentistOpeningTimes.csv", __FILE__)
 		CSV.foreach(csv, encoding:'iso-8859-1:utf-8', col_sep: "\u00AC", headers: :first_row) do |row|
@@ -35,6 +36,18 @@ organisationTypes.each do |organisationType|
 			details['AdditionalOpeningDate'] = row['AdditonalOpeningDate'] unless row['AdditonalOpeningDate'].nil?
 			openingTimes[orgID] = [] unless openingTimes[orgID]
 			openingTimes[orgID].push(details)
+		end
+		csv = File.expand_path("../../sources/DentistStaff.csv", __FILE__)
+		CSV.foreach(csv, encoding:'iso-8859-1:utf-8', col_sep: "\u00AC", headers: :first_row) do |row|
+			orgID = row['OrganisationID']
+			details = {
+				:Title => row['Title'],
+				:GivenName => row['GivenName'],
+				:FamilyName => row['FamilyName'],
+				:Role => row['Role']
+			}
+			staff[orgID] = [] unless staff[orgID]
+			staff[orgID].push(details)
 		end
 	end
 
@@ -50,6 +63,7 @@ organisationTypes.each do |organisationType|
 				end
 			end
 			properties['openingTimes'] = openingTimes[row['OrganisationID']]
+			properties['staff'] = staff[row['OrganisationID']]
 			feature = {
 				:type => 'Feature',
 				:id => row['OrganisationID'],
