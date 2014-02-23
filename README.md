@@ -1,13 +1,13 @@
 # Locations of Health Providers
 
-This repo aims to provide GeoJSON versions of the locations of (and other information about) health providers within the UK. All data is made available by [NHS Choices](http://www.nhs.uk/aboutnhschoices/contactus/pages/freedom-of-information.aspx) under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).
+This repo aims to provide GeoJSON versions of the locations of (and other information about) health providers within the England. All data is made available by [NHS Choices](http://www.nhs.uk/aboutnhschoices/contactus/pages/freedom-of-information.aspx) under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).
 
 ## Data
 
 The data sources are as follows:
 
   * [Accountability indicators – CCGs](http://media.nhschoices.nhs.uk/data/foi/AccountabilityIndicatorsClinicalCommissioningGroup.csv)
-  * [Accountability indicators – GPs](http://media.nhschoices.nhs.uk/data/foi/AccountabilityIndicatorsGeneralPractice.csv)
+  * [Accountability indicators – GPs](http://media.nhschoices.nhs.uk/data/foi/AccountabilityIndicatorsGeneralPractice.csv) (too large for Github)
   * [Accountability indicators – hospitals](http://media.nhschoices.nhs.uk/data/foi/AccountabilityIndicatorsHospital.csv)
   * [Accountability indicators – local authorities](http://media.nhschoices.nhs.uk/data/foi/AccountabilityIndicatorsLocalAuthority.csv)
   * [Clinical commissioning groups](http://media.nhschoices.nhs.uk/data/foi/CCG.csv)
